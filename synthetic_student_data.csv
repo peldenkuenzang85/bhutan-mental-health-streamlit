@@ -1,0 +1,801 @@
+age,gender,district,residence,sleep_hours,study_hours_per_day,physical_activity_days,stress_level,social_support,financial_pressure,academic_pressure,screen_time_hours,mental_health_awareness,support_need
+22.0,Female,Samtse,Rural,9.0,2.4,4.0,4.0,7.0,4.0,1.0,7.0,Medium,0
+19.0,Female,Thimphu,Rural,7.8,1.2,5.0,8.0,2.0,7.0,8.0,3.1,Medium,1
+23.0,Male,Samtse,Urban,,2.0,0.0,9.0,2.0,5.0,8.0,1.1,Low,1
+20.0,Female,Trongsa,Rural,7.7,4.7,1.0,1.0,4.0,8.0,9.0,6.4,High,1
+22.0,Female,Trashiyangtse,Urban,5.4,7.2,4.0,7.0,1.0,4.0,6.0,7.2,Medium,1
+18.0,Male,Trashiyangtse,Rural,8.0,5.1,,,5.0,6.0,1.0,9.0,Low,1
+22.0,Female,,Rural,6.3,3.3,4.0,10.0,6.0,4.0,9.0,4.5,High,1
+23.0,Other,Samtse,Rural,5.9,5.4,0.0,5.0,9.0,2.0,3.0,4.1,Low,0
+20.0,Male,Zhemgang,Urban,5.7,3.6,2.0,2.0,10.0,1.0,6.0,4.4,Medium,0
+19.0,Male,Trashiyangtse,Rural,8.8,3.1,,,8.0,1.0,10.0,6.7,Low,1
+23.0,Female,Haa,Rural,6.7,2.2,7.0,6.0,2.0,8.0,10.0,4.3,Low,1
+23.0,Female,Thimphu,Urban,9.3,1.0,1.0,7.0,,4.0,9.0,4.9,Low,1
+18.0,,Zhemgang,Rural,6.9,3.7,,2.0,2.0,5.0,3.0,7.1,Medium,1
+21.0,Female,Chukha,Urban,5.5,,4.0,2.0,7.0,8.0,5.0,3.4,Low,1
+20.0,Female,Trashigang,Rural,6.2,4.3,,10.0,4.0,7.0,5.0,8.5,Low,1
+17.0,Female,Haa,Urban,9.0,3.7,6.0,10.0,10.0,8.0,,6.6,Low,1
+23.0,Female,Trongsa,Rural,7.3,2.6,5.0,1.0,5.0,8.0,7.0,1.0,Medium,0
+21.0,Female,,Rural,6.8,5.7,6.0,4.0,7.0,6.0,4.0,3.7,Medium,0
+17.0,Male,Trashiyangtse,Urban,7.7,1.9,5.0,7.0,3.0,10.0,4.0,1.0,Low,1
+20.0,Male,Dagana,Urban,8.1,6.1,1.0,9.0,10.0,2.0,7.0,4.5,Medium,1
+16.0,Female,Pemagatshel,Urban,8.8,2.5,3.0,3.0,2.0,6.0,9.0,3.8,Medium,0
+21.0,,Trongsa,Rural,9.2,3.0,5.0,7.0,7.0,1.0,4.0,7.1,Medium,0
+24.0,Male,Samdrup Jongkhar,Urban,7.1,1.6,3.0,7.0,5.0,1.0,4.0,2.8,High,0
+16.0,Female,Haa,Rural,5.9,3.5,6.0,7.0,1.0,3.0,6.0,6.0,Low,1
+18.0,Female,Wangdue Phodrang,Urban,7.0,6.5,5.0,,1.0,3.0,6.0,6.4,Low,0
+22.0,Male,Chukha,Urban,7.8,5.5,1.0,,9.0,5.0,7.0,5.6,Low,0
+19.0,Female,Tsirang,Rural,6.3,6.5,0.0,2.0,5.0,1.0,1.0,7.9,Medium,0
+24.0,Female,Thimphu,Urban,6.4,5.5,1.0,6.0,1.0,10.0,3.0,10.2,High,1
+18.0,Female,Haa,Rural,7.9,2.3,1.0,10.0,7.0,6.0,9.0,5.3,Medium,1
+20.0,Female,Samtse,Rural,7.4,3.8,0.0,3.0,9.0,7.0,6.0,6.0,Medium,1
+18.0,Male,Paro,Rural,7.5,2.9,0.0,2.0,1.0,10.0,6.0,2.8,High,1
+22.0,Female,Sarpang,Rural,6.6,7.2,2.0,6.0,10.0,3.0,5.0,2.5,Low,0
+20.0,Male,Samdrup Jongkhar,Rural,7.2,2.1,5.0,2.0,4.0,,3.0,7.6,High,0
+24.0,Male,Paro,Urban,6.4,6.3,6.0,5.0,3.0,10.0,5.0,7.3,Medium,1
+22.0,Female,Thimphu,Urban,8.6,6.3,2.0,2.0,5.0,10.0,1.0,2.4,Low,0
+17.0,Male,Paro,Urban,8.7,8.2,0.0,3.0,7.0,10.0,3.0,1.7,Medium,1
+19.0,Male,Tsirang,Rural,5.3,3.7,3.0,3.0,8.0,10.0,4.0,3.4,High,1
+24.0,Female,Samdrup Jongkhar,Urban,6.4,5.9,6.0,6.0,2.0,10.0,5.0,4.6,Low,1
+17.0,Male,Samdrup Jongkhar,Rural,5.7,9.1,3.0,6.0,7.0,3.0,10.0,4.0,Low,1
+24.0,Male,Haa,Rural,6.7,3.3,1.0,10.0,,1.0,9.0,5.4,Low,1
+20.0,Female,Haa,Rural,7.4,1.4,4.0,3.0,7.0,8.0,4.0,7.3,High,1
+17.0,Female,Paro,Rural,5.8,1.0,1.0,3.0,,10.0,3.0,6.2,Medium,0
+19.0,Male,Bumthang,Urban,6.4,5.9,,1.0,2.0,10.0,10.0,6.3,Low,1
+22.0,Female,Sarpang,Rural,6.3,1.0,4.0,7.0,9.0,2.0,1.0,1.0,Medium,0
+23.0,Female,Thimphu,,7.7,3.8,5.0,8.0,1.0,1.0,10.0,1.0,Low,1
+18.0,,Samdrup Jongkhar,Urban,7.6,5.4,0.0,2.0,,8.0,6.0,3.0,Medium,0
+16.0,Female,Trashiyangtse,Urban,6.6,4.9,3.0,4.0,1.0,7.0,7.0,3.4,Low,1
+19.0,Other,Thimphu,Rural,,5.4,1.0,10.0,3.0,7.0,10.0,,High,1
+17.0,Female,Punakha,Rural,6.8,,4.0,7.0,6.0,4.0,8.0,2.8,Medium,1
+23.0,Female,Punakha,Rural,7.2,7.1,2.0,8.0,3.0,9.0,1.0,6.7,High,1
+19.0,Female,Trashiyangtse,Rural,9.5,2.6,1.0,1.0,8.0,6.0,,3.0,,0
+17.0,Male,Samdrup Jongkhar,Rural,9.1,3.1,3.0,4.0,5.0,2.0,5.0,2.0,Medium,1
+21.0,Male,Samdrup Jongkhar,Rural,5.9,3.0,0.0,6.0,2.0,1.0,2.0,2.1,High,0
+21.0,Female,Pemagatshel,Rural,8.5,6.2,1.0,3.0,4.0,1.0,1.0,10.6,Low,0
+19.0,Female,Trongsa,Urban,8.5,6.3,1.0,5.0,9.0,,8.0,3.0,,0
+21.0,Female,Tsirang,Rural,6.1,5.4,5.0,10.0,4.0,4.0,6.0,6.7,Low,1
+17.0,Male,Lhuentse,Rural,8.5,6.9,7.0,9.0,10.0,5.0,5.0,1.1,,0
+17.0,Female,Haa,Rural,9.3,2.1,4.0,3.0,10.0,3.0,9.0,8.5,Medium,0
+19.0,Male,Wangdue Phodrang,Rural,6.2,7.8,2.0,5.0,8.0,4.0,2.0,5.9,Medium,0
+23.0,Male,Zhemgang,Rural,6.4,7.5,2.0,8.0,5.0,8.0,10.0,5.7,High,1
+22.0,Female,Haa,Rural,8.7,6.0,6.0,6.0,10.0,4.0,,6.0,Low,1
+24.0,Female,Paro,Rural,7.8,8.1,0.0,4.0,1.0,9.0,10.0,6.3,Medium,1
+23.0,Female,Samdrup Jongkhar,Rural,8.2,1.2,6.0,8.0,7.0,9.0,9.0,7.0,Medium,1
+20.0,Female,Wangdue Phodrang,Rural,7.9,3.5,3.0,3.0,3.0,6.0,1.0,3.5,High,0
+17.0,Male,Zhemgang,Urban,,3.0,,3.0,,2.0,7.0,3.4,Low,0
+20.0,Female,Haa,Rural,5.9,5.9,1.0,4.0,8.0,10.0,8.0,5.1,Low,1
+23.0,Male,Samdrup Jongkhar,Urban,8.8,2.4,7.0,9.0,3.0,7.0,3.0,6.7,Medium,1
+24.0,Female,Bumthang,Urban,8.9,6.0,1.0,5.0,1.0,9.0,4.0,4.8,Medium,0
+24.0,Female,Wangdue Phodrang,Rural,7.2,7.2,2.0,8.0,5.0,6.0,3.0,6.9,High,1
+16.0,Female,Lhuentse,Rural,7.4,5.9,3.0,6.0,2.0,3.0,7.0,6.5,Medium,1
+24.0,Female,Trashiyangtse,Rural,5.7,5.1,4.0,3.0,4.0,7.0,9.0,4.5,Low,1
+22.0,Female,Tsirang,Rural,8.1,2.5,3.0,8.0,1.0,,3.0,1.0,High,1
+24.0,Female,Dagana,Rural,8.2,2.8,1.0,9.0,9.0,1.0,6.0,3.7,Low,0
+23.0,Male,Sarpang,Rural,7.4,7.0,,8.0,6.0,3.0,8.0,9.4,Medium,1
+,Male,Chukha,Rural,,6.1,3.0,4.0,8.0,5.0,6.0,5.9,High,0
+23.0,Male,Bumthang,Urban,7.1,4.4,7.0,6.0,4.0,7.0,2.0,3.4,Medium,1
+23.0,Male,Tsirang,Urban,8.2,3.7,7.0,1.0,9.0,3.0,7.0,5.6,High,0
+18.0,Female,Trongsa,Urban,6.3,1.0,3.0,4.0,2.0,6.0,2.0,6.7,Medium,1
+16.0,Female,Lhuentse,Rural,7.5,,4.0,8.0,9.0,5.0,2.0,3.4,Medium,0
+23.0,Male,Trashiyangtse,Urban,7.3,,1.0,1.0,5.0,1.0,2.0,,Medium,0
+18.0,Male,Dagana,Urban,7.8,1.9,3.0,3.0,6.0,10.0,1.0,6.2,High,1
+18.0,Male,Paro,Urban,7.1,4.9,4.0,1.0,3.0,6.0,1.0,2.3,Low,1
+16.0,Female,Samtse,Rural,7.3,6.5,5.0,9.0,4.0,8.0,7.0,7.1,Medium,1
+20.0,Female,Samdrup Jongkhar,Urban,8.5,2.0,7.0,2.0,6.0,1.0,5.0,4.0,Low,0
+22.0,Male,Punakha,Rural,7.0,4.9,5.0,9.0,7.0,2.0,3.0,4.6,Low,0
+24.0,Female,Trashigang,Urban,5.6,6.4,1.0,4.0,,4.0,1.0,2.5,Medium,0
+22.0,Female,Thimphu,Rural,9.6,4.5,4.0,2.0,7.0,2.0,10.0,6.6,High,1
+,Male,Chukha,Urban,9.2,10.0,5.0,4.0,1.0,9.0,6.0,4.6,High,1
+23.0,Female,Dagana,Urban,5.9,,4.0,,5.0,10.0,1.0,6.7,Medium,1
+17.0,Female,Paro,Rural,8.3,6.6,3.0,6.0,6.0,8.0,9.0,3.6,High,1
+16.0,Male,Wangdue Phodrang,Urban,6.9,4.2,1.0,7.0,2.0,8.0,2.0,3.3,Medium,1
+22.0,Male,Dagana,Urban,7.8,6.0,5.0,3.0,10.0,,,3.1,Medium,0
+22.0,Male,Samdrup Jongkhar,Urban,7.9,5.4,6.0,3.0,9.0,5.0,7.0,6.0,Low,0
+23.0,Male,Paro,Urban,7.2,3.0,3.0,10.0,10.0,4.0,6.0,3.3,Low,1
+20.0,Female,Punakha,Urban,6.6,5.0,7.0,8.0,6.0,9.0,6.0,4.5,Low,1
+18.0,Female,Tsirang,Urban,6.7,1.0,6.0,5.0,7.0,2.0,,3.7,Medium,0
+23.0,Male,Samtse,Rural,6.4,5.7,6.0,,10.0,8.0,4.0,6.1,Low,1
+21.0,,Paro,Rural,6.5,5.1,0.0,7.0,8.0,2.0,4.0,1.0,Medium,0
+18.0,Male,Trashigang,Rural,7.4,5.8,0.0,7.0,,1.0,3.0,5.6,Medium,0
+16.0,Male,Zhemgang,Urban,6.6,6.6,1.0,9.0,1.0,10.0,10.0,9.3,Low,1
+18.0,Female,Haa,Rural,8.3,5.2,5.0,9.0,8.0,3.0,8.0,8.1,Low,1
+20.0,Male,Mongar,Urban,9.3,4.8,5.0,5.0,4.0,9.0,7.0,3.5,Medium,0
+18.0,Male,Samdrup Jongkhar,Urban,6.8,2.7,5.0,8.0,10.0,3.0,9.0,6.2,Medium,1
+16.0,Male,Paro,Rural,7.8,3.1,4.0,10.0,8.0,9.0,1.0,5.8,Medium,1
+20.0,,Thimphu,Urban,8.1,6.9,3.0,1.0,6.0,7.0,7.0,8.7,High,1
+22.0,Male,Trashigang,Urban,8.1,7.4,5.0,9.0,9.0,10.0,10.0,1.0,Medium,1
+22.0,Female,Haa,Rural,7.6,4.0,3.0,8.0,4.0,1.0,4.0,7.8,High,0
+24.0,,Pemagatshel,Rural,8.4,4.6,1.0,6.0,2.0,10.0,7.0,4.3,Medium,1
+18.0,Female,Lhuentse,Rural,8.1,2.7,6.0,3.0,2.0,5.0,1.0,3.1,Low,0
+22.0,Female,Bumthang,Rural,6.0,,,,5.0,9.0,5.0,3.1,Low,1
+16.0,Male,Haa,Rural,8.5,5.8,1.0,8.0,10.0,3.0,3.0,1.8,Medium,0
+19.0,Male,Dagana,Urban,8.6,8.4,5.0,5.0,9.0,,5.0,3.5,Medium,0
+19.0,Female,Punakha,Urban,6.6,2.7,0.0,10.0,,5.0,4.0,2.3,Low,1
+20.0,Female,Pemagatshel,Urban,7.5,3.7,2.0,7.0,8.0,9.0,2.0,5.5,Low,1
+22.0,Male,Bumthang,Rural,8.3,5.0,1.0,5.0,4.0,10.0,4.0,6.5,,1
+22.0,Female,Mongar,Rural,7.2,5.8,5.0,8.0,6.0,6.0,3.0,4.4,Low,1
+19.0,Female,Punakha,Rural,8.8,4.1,,10.0,10.0,9.0,1.0,8.7,Low,1
+22.0,Female,Paro,Rural,10.0,2.8,2.0,10.0,6.0,7.0,10.0,,High,1
+,Male,Haa,Rural,6.6,6.3,1.0,4.0,3.0,7.0,8.0,4.2,Low,0
+21.0,Female,Thimphu,Urban,5.8,5.9,7.0,2.0,5.0,8.0,5.0,3.8,High,0
+17.0,Male,,Rural,7.9,2.7,7.0,3.0,3.0,7.0,4.0,6.5,Medium,1
+24.0,Female,,Rural,,7.2,4.0,8.0,1.0,9.0,10.0,6.7,High,1
+20.0,Male,Lhuentse,Rural,7.2,6.8,7.0,7.0,7.0,9.0,5.0,6.2,Medium,0
+21.0,Male,Sarpang,Urban,9.2,4.8,5.0,2.0,4.0,6.0,4.0,4.7,High,0
+19.0,Male,Pemagatshel,Rural,5.9,,4.0,6.0,7.0,7.0,3.0,1.6,High,1
+22.0,Female,Mongar,Urban,8.3,5.6,0.0,9.0,3.0,2.0,5.0,4.2,Medium,1
+24.0,Male,Pemagatshel,,6.8,2.8,5.0,4.0,5.0,9.0,,8.7,Medium,0
+22.0,Male,Wangdue Phodrang,Urban,,4.6,6.0,9.0,5.0,1.0,1.0,7.5,Medium,0
+16.0,Male,Dagana,Rural,9.9,1.0,7.0,2.0,2.0,1.0,,5.7,Low,0
+16.0,Female,Sarpang,Rural,6.6,6.3,0.0,2.0,10.0,3.0,10.0,4.0,High,0
+24.0,Other,Dagana,Urban,6.8,1.4,2.0,9.0,2.0,6.0,10.0,5.0,,1
+24.0,Male,Mongar,Urban,8.5,7.5,1.0,7.0,4.0,5.0,8.0,4.0,High,1
+19.0,Female,Chukha,Rural,7.0,3.8,7.0,7.0,4.0,2.0,7.0,8.0,High,1
+24.0,Female,Sarpang,Urban,,4.1,3.0,1.0,4.0,9.0,2.0,2.9,High,0
+18.0,Female,Chukha,Urban,,3.2,0.0,6.0,6.0,10.0,1.0,7.3,Medium,0
+22.0,Male,Mongar,Rural,5.2,3.9,3.0,7.0,2.0,4.0,3.0,3.7,Medium,1
+21.0,Male,Tsirang,Rural,7.5,7.3,7.0,6.0,6.0,4.0,5.0,8.3,Low,0
+23.0,Male,Dagana,Urban,6.7,1.0,3.0,6.0,7.0,5.0,10.0,6.1,Low,1
+24.0,Male,Chukha,Urban,,7.1,7.0,2.0,10.0,8.0,1.0,3.1,Medium,0
+20.0,Male,Pemagatshel,Urban,9.2,5.2,1.0,6.0,3.0,10.0,3.0,4.2,Medium,1
+16.0,Female,Sarpang,Rural,6.0,2.1,2.0,4.0,8.0,4.0,,6.8,Low,0
+18.0,,Haa,Rural,8.5,2.3,1.0,9.0,2.0,5.0,5.0,3.8,Low,1
+23.0,Male,Lhuentse,Rural,7.2,7.9,5.0,1.0,8.0,4.0,3.0,5.1,High,0
+21.0,,,Urban,7.2,2.6,0.0,8.0,5.0,6.0,9.0,,Medium,1
+23.0,Male,Trashiyangtse,Rural,8.4,2.2,3.0,5.0,2.0,3.0,1.0,9.4,Medium,0
+24.0,Female,Trongsa,Urban,7.9,6.8,1.0,1.0,7.0,8.0,,9.8,Low,0
+19.0,Female,Samdrup Jongkhar,Rural,8.2,5.2,7.0,4.0,2.0,6.0,10.0,8.7,Medium,1
+,Male,Trongsa,Rural,8.7,2.6,1.0,1.0,6.0,10.0,10.0,4.7,Low,1
+16.0,Female,Sarpang,,7.1,4.9,1.0,6.0,10.0,5.0,4.0,4.0,Medium,0
+19.0,Female,Tsirang,Rural,6.8,2.4,0.0,2.0,3.0,2.0,,3.1,Low,0
+22.0,Female,Trongsa,Rural,6.2,6.7,2.0,5.0,9.0,10.0,2.0,8.8,Low,1
+17.0,Female,Sarpang,Urban,6.5,6.6,6.0,7.0,3.0,10.0,,7.3,Medium,1
+18.0,Female,Pemagatshel,Rural,10.0,5.6,1.0,2.0,3.0,7.0,6.0,7.4,High,1
+16.0,,Dagana,Urban,9.0,5.2,0.0,6.0,5.0,,3.0,4.4,Medium,0
+20.0,Male,Trongsa,Rural,5.9,,3.0,6.0,,1.0,7.0,1.0,Medium,0
+16.0,Male,Thimphu,Urban,5.9,4.5,7.0,5.0,8.0,7.0,5.0,1.2,Low,0
+23.0,Male,Zhemgang,Urban,8.1,2.1,5.0,5.0,7.0,5.0,9.0,,Medium,1
+16.0,Female,Pemagatshel,Rural,8.2,5.4,6.0,3.0,9.0,1.0,7.0,3.7,Medium,0
+16.0,Male,Lhuentse,Urban,8.2,8.7,4.0,10.0,5.0,4.0,4.0,3.4,High,1
+17.0,Female,Pemagatshel,Rural,7.2,2.5,6.0,10.0,10.0,4.0,5.0,5.9,High,0
+17.0,Female,,Rural,,3.8,7.0,2.0,3.0,10.0,5.0,,,1
+21.0,Female,Bumthang,Urban,7.9,5.3,6.0,7.0,6.0,7.0,5.0,3.2,Medium,0
+22.0,Other,Mongar,,7.6,4.4,7.0,1.0,5.0,9.0,10.0,1.7,High,1
+20.0,Female,Wangdue Phodrang,Rural,4.8,2.5,0.0,6.0,4.0,2.0,9.0,3.3,Low,1
+16.0,Female,Pemagatshel,Urban,7.2,6.7,4.0,6.0,2.0,1.0,10.0,2.4,High,1
+16.0,Male,Paro,Rural,6.5,,1.0,3.0,7.0,2.0,3.0,6.5,Medium,0
+18.0,Female,Bumthang,Rural,7.7,4.9,1.0,2.0,5.0,7.0,6.0,5.0,Medium,0
+17.0,Male,Trongsa,Rural,10.0,2.7,6.0,2.0,4.0,10.0,8.0,9.7,Low,1
+20.0,Male,Sarpang,Rural,7.9,1.4,0.0,9.0,8.0,6.0,9.0,6.8,High,1
+21.0,Female,Mongar,Rural,7.1,5.0,4.0,5.0,9.0,,7.0,9.5,Low,0
+22.0,Female,Chukha,Rural,8.6,6.7,,7.0,9.0,1.0,3.0,,Low,0
+19.0,Male,Trashigang,Urban,8.1,5.5,3.0,5.0,3.0,1.0,1.0,1.0,Medium,0
+22.0,Female,Haa,Urban,8.0,4.5,2.0,7.0,3.0,5.0,4.0,5.6,Low,1
+23.0,,Bumthang,Rural,8.2,3.3,2.0,4.0,5.0,1.0,6.0,5.3,High,0
+16.0,Female,Wangdue Phodrang,Rural,10.0,2.3,1.0,8.0,5.0,7.0,3.0,4.7,Medium,1
+21.0,Female,Thimphu,Rural,,6.2,,10.0,10.0,1.0,1.0,5.2,Medium,0
+23.0,Female,Chukha,Rural,8.1,6.3,5.0,10.0,2.0,1.0,6.0,2.2,High,1
+20.0,Other,Punakha,Rural,6.4,1.4,,7.0,1.0,2.0,1.0,6.4,Medium,1
+19.0,Female,Chukha,Rural,8.2,7.7,5.0,10.0,8.0,10.0,9.0,6.8,Medium,1
+17.0,Female,Punakha,Rural,6.4,5.6,5.0,5.0,3.0,3.0,1.0,2.0,Medium,0
+21.0,Other,Bumthang,Urban,7.0,7.3,7.0,6.0,,1.0,6.0,4.1,Medium,1
+21.0,Female,Samtse,Rural,7.1,1.8,,,1.0,9.0,1.0,4.3,Low,1
+16.0,Male,Dagana,Urban,,1.8,4.0,7.0,2.0,10.0,7.0,3.3,Medium,1
+24.0,Male,Haa,Rural,8.6,4.2,,2.0,6.0,8.0,3.0,2.1,High,0
+21.0,Male,Wangdue Phodrang,Rural,6.0,5.5,3.0,5.0,6.0,5.0,6.0,5.0,Medium,1
+18.0,Male,Mongar,Rural,7.6,8.1,4.0,10.0,3.0,2.0,7.0,5.7,High,1
+,Female,Dagana,Urban,6.6,5.9,1.0,3.0,4.0,5.0,1.0,3.5,Medium,0
+19.0,Female,Samtse,Urban,6.0,,6.0,9.0,2.0,6.0,1.0,2.3,Medium,0
+18.0,Female,Trashiyangtse,Rural,7.2,2.4,3.0,6.0,2.0,,,6.0,High,1
+18.0,Male,Lhuentse,Urban,7.1,7.0,,10.0,7.0,4.0,6.0,3.1,Low,1
+18.0,Female,Samdrup Jongkhar,Rural,10.0,2.6,2.0,3.0,1.0,9.0,9.0,4.2,Low,1
+19.0,Female,Sarpang,Urban,8.0,7.8,1.0,7.0,7.0,2.0,1.0,3.9,Medium,0
+22.0,Female,Trashiyangtse,Urban,5.8,3.9,1.0,4.0,1.0,5.0,4.0,8.1,Medium,1
+19.0,Female,Tsirang,Urban,6.8,7.7,1.0,3.0,6.0,1.0,,3.2,Low,0
+,Female,Samdrup Jongkhar,Rural,8.7,5.9,3.0,8.0,3.0,4.0,8.0,9.3,Low,1
+16.0,Male,Mongar,Rural,10.0,4.2,,4.0,8.0,4.0,10.0,6.9,Low,0
+,Female,Wangdue Phodrang,Urban,5.6,3.5,6.0,1.0,6.0,6.0,9.0,9.6,Medium,1
+22.0,Male,Thimphu,Urban,5.2,3.8,4.0,6.0,2.0,10.0,3.0,6.7,High,1
+17.0,Male,Dagana,Rural,,5.4,7.0,10.0,8.0,9.0,2.0,4.4,High,0
+23.0,Female,Samdrup Jongkhar,Urban,8.0,4.7,0.0,1.0,5.0,,4.0,2.7,High,0
+16.0,Male,Trashigang,Rural,6.5,3.3,3.0,5.0,8.0,9.0,2.0,4.1,High,0
+24.0,Female,Mongar,,8.1,4.2,1.0,7.0,8.0,6.0,1.0,8.7,Medium,0
+24.0,Male,Dagana,Urban,4.3,4.7,2.0,6.0,6.0,7.0,3.0,4.9,Medium,0
+17.0,Female,Trongsa,Urban,7.5,1.0,1.0,2.0,2.0,10.0,7.0,6.7,Low,1
+22.0,Male,Paro,,7.9,5.4,4.0,,8.0,2.0,1.0,5.5,Medium,0
+18.0,Other,Trashigang,Rural,,2.5,5.0,2.0,6.0,10.0,2.0,5.6,Low,0
+22.0,Female,Punakha,,6.3,2.2,2.0,1.0,6.0,6.0,1.0,5.7,Medium,0
+24.0,Male,Trashiyangtse,Urban,7.6,1.1,1.0,,8.0,6.0,8.0,6.2,Medium,1
+19.0,Female,Dagana,Rural,6.4,1.0,6.0,3.0,1.0,2.0,5.0,3.0,Medium,0
+,Other,,Urban,7.8,1.8,2.0,7.0,2.0,2.0,8.0,4.3,High,1
+17.0,Male,Chukha,Rural,6.4,3.1,5.0,1.0,9.0,2.0,3.0,5.8,,0
+16.0,Male,Dagana,Rural,7.0,8.4,7.0,9.0,8.0,10.0,7.0,5.4,Low,0
+20.0,Female,Wangdue Phodrang,Urban,6.3,3.4,0.0,6.0,7.0,1.0,8.0,,Medium,0
+20.0,Female,Trashigang,Urban,8.3,4.9,3.0,4.0,7.0,5.0,6.0,6.0,Medium,1
+22.0,Female,Wangdue Phodrang,Urban,8.5,5.3,7.0,3.0,5.0,8.0,7.0,3.1,High,0
+24.0,Female,Samdrup Jongkhar,,7.2,4.8,1.0,3.0,2.0,2.0,2.0,1.9,Medium,1
+24.0,Male,Chukha,Urban,7.5,4.3,4.0,2.0,6.0,5.0,8.0,5.7,Medium,0
+18.0,Male,Bumthang,Urban,5.8,2.1,0.0,2.0,10.0,8.0,5.0,2.0,High,0
+18.0,Female,Haa,Rural,,7.4,7.0,10.0,3.0,10.0,7.0,5.7,Medium,0
+18.0,,Trashigang,Rural,7.4,8.1,1.0,5.0,4.0,5.0,1.0,1.0,High,0
+19.0,Male,Bumthang,Urban,10.0,1.1,0.0,9.0,10.0,2.0,5.0,3.2,High,0
+23.0,,Trashigang,,6.2,2.5,7.0,2.0,2.0,3.0,1.0,4.2,Medium,0
+21.0,Female,Trongsa,Urban,9.3,3.9,4.0,2.0,2.0,6.0,8.0,1.0,Low,0
+23.0,Female,Trashigang,Rural,8.7,2.6,1.0,6.0,8.0,5.0,4.0,4.1,Medium,0
+16.0,Female,Dagana,Urban,7.8,5.5,5.0,10.0,8.0,4.0,4.0,8.0,Low,1
+23.0,Female,Dagana,Rural,9.6,3.0,5.0,2.0,10.0,4.0,2.0,1.8,Medium,0
+19.0,,Punakha,Rural,7.9,8.8,4.0,4.0,6.0,5.0,5.0,4.1,Medium,0
+16.0,Female,,Rural,8.0,6.9,2.0,6.0,5.0,2.0,1.0,9.3,Low,0
+23.0,Male,Thimphu,Rural,7.4,4.9,4.0,5.0,8.0,9.0,9.0,2.3,High,1
+,Male,Chukha,Urban,9.0,6.6,2.0,1.0,4.0,2.0,5.0,8.5,Medium,1
+21.0,Female,Pemagatshel,Rural,8.8,6.7,1.0,6.0,4.0,10.0,6.0,4.3,High,1
+23.0,Female,Chukha,Urban,6.7,3.4,7.0,1.0,5.0,2.0,,5.3,Low,0
+19.0,Male,Haa,Urban,,2.9,2.0,3.0,1.0,10.0,10.0,8.2,Low,1
+18.0,Male,Trashiyangtse,Urban,7.3,4.7,1.0,10.0,1.0,9.0,10.0,3.8,Medium,1
+24.0,Male,Haa,Rural,6.5,6.2,1.0,5.0,2.0,3.0,1.0,6.6,Low,1
+,Male,Thimphu,Urban,7.4,4.8,6.0,10.0,8.0,10.0,4.0,7.2,Medium,1
+24.0,Female,,Rural,9.0,1.3,3.0,5.0,7.0,7.0,7.0,3.4,Medium,1
+17.0,Male,Thimphu,Rural,,2.9,1.0,10.0,10.0,,6.0,3.1,Medium,1
+17.0,Female,Trashigang,Rural,7.4,4.4,2.0,6.0,9.0,6.0,10.0,4.4,Medium,1
+17.0,Female,Wangdue Phodrang,Rural,7.6,4.3,3.0,10.0,5.0,4.0,1.0,4.5,Low,1
+,Female,Mongar,Rural,8.5,8.4,3.0,8.0,2.0,10.0,1.0,2.3,Medium,0
+18.0,Female,Samtse,Urban,4.8,1.7,1.0,5.0,7.0,7.0,8.0,3.4,Medium,1
+24.0,,Chukha,Urban,6.8,5.5,4.0,1.0,8.0,1.0,4.0,1.0,Medium,0
+19.0,Female,Zhemgang,Urban,7.8,7.5,4.0,5.0,7.0,3.0,5.0,4.2,Medium,0
+16.0,Male,Zhemgang,Urban,8.9,9.0,5.0,3.0,7.0,,7.0,7.2,High,0
+19.0,Male,Lhuentse,Urban,6.9,3.7,3.0,4.0,5.0,1.0,8.0,1.0,Medium,0
+16.0,Female,Zhemgang,Urban,5.2,5.5,1.0,8.0,2.0,6.0,10.0,3.8,Medium,1
+20.0,Male,Chukha,Rural,8.2,5.6,,7.0,6.0,,7.0,11.1,High,1
+19.0,Male,Samdrup Jongkhar,Rural,6.7,4.9,4.0,,4.0,8.0,2.0,4.9,,1
+23.0,,Chukha,Urban,6.1,4.3,6.0,2.0,10.0,7.0,4.0,8.4,High,0
+23.0,Male,Samtse,Rural,6.8,5.4,1.0,6.0,2.0,10.0,10.0,2.5,Low,1
+22.0,Female,,Urban,,1.0,1.0,,9.0,8.0,1.0,6.1,Medium,1
+18.0,Male,Trashiyangtse,Rural,6.8,5.9,7.0,10.0,7.0,6.0,10.0,2.0,Low,0
+16.0,Female,Punakha,Rural,4.9,4.8,3.0,,6.0,9.0,9.0,6.0,Medium,1
+16.0,Female,Zhemgang,Rural,8.6,4.1,7.0,6.0,5.0,3.0,3.0,7.1,Low,1
+18.0,Female,Punakha,Rural,,,6.0,9.0,,10.0,3.0,6.5,Low,1
+21.0,Female,Dagana,,8.3,3.2,7.0,8.0,10.0,10.0,10.0,4.1,Medium,1
+22.0,Male,Punakha,Rural,6.1,3.7,5.0,8.0,10.0,9.0,9.0,5.7,High,0
+,Female,Trashigang,Rural,7.3,8.5,3.0,1.0,,4.0,10.0,,Medium,0
+21.0,Male,,Rural,7.5,2.8,0.0,5.0,3.0,7.0,3.0,6.7,High,1
+21.0,Female,Paro,Rural,8.2,3.4,7.0,7.0,8.0,9.0,8.0,4.7,High,0
+18.0,Male,Trongsa,Urban,8.3,4.2,6.0,6.0,3.0,,2.0,7.3,Low,0
+21.0,Female,Trongsa,Urban,6.6,6.2,4.0,5.0,7.0,2.0,3.0,8.6,,0
+23.0,Male,Bumthang,Urban,7.6,4.9,4.0,8.0,7.0,9.0,2.0,4.2,Medium,1
+17.0,Female,Haa,Rural,8.0,1.9,4.0,3.0,7.0,3.0,1.0,5.1,High,0
+20.0,Female,Haa,Rural,9.2,3.4,2.0,6.0,7.0,9.0,2.0,2.7,Medium,0
+16.0,Female,Paro,,8.3,3.3,1.0,5.0,2.0,5.0,8.0,5.9,High,1
+16.0,Male,Pemagatshel,Rural,8.4,4.3,3.0,8.0,10.0,6.0,9.0,5.9,Low,1
+20.0,Female,Tsirang,Rural,7.6,5.4,4.0,4.0,3.0,2.0,2.0,5.1,Medium,0
+18.0,Male,Lhuentse,Rural,,5.3,0.0,8.0,,8.0,7.0,5.3,Medium,1
+19.0,Male,Paro,Rural,8.0,1.0,4.0,10.0,9.0,9.0,5.0,9.8,Medium,1
+18.0,Male,Haa,Rural,6.5,6.6,5.0,,3.0,2.0,3.0,1.0,Low,0
+,Male,Mongar,Urban,,5.0,1.0,9.0,2.0,6.0,9.0,,Medium,1
+16.0,Female,Paro,Rural,8.3,7.3,6.0,9.0,9.0,6.0,6.0,4.1,Low,1
+20.0,Female,Wangdue Phodrang,Urban,7.0,,1.0,10.0,10.0,8.0,1.0,8.6,Medium,1
+21.0,Male,Lhuentse,Rural,6.9,6.7,7.0,10.0,9.0,10.0,5.0,6.2,High,1
+18.0,Male,,Urban,7.9,5.4,6.0,6.0,4.0,5.0,7.0,6.2,High,1
+24.0,Male,,Rural,8.1,7.2,6.0,4.0,9.0,9.0,4.0,8.1,Medium,0
+20.0,Male,Trashigang,Rural,7.7,5.5,7.0,4.0,3.0,1.0,8.0,4.6,Low,0
+,Other,Paro,Urban,7.9,4.3,3.0,6.0,7.0,9.0,10.0,,Medium,1
+16.0,Male,Lhuentse,Rural,9.5,9.0,7.0,5.0,7.0,10.0,5.0,3.7,Low,0
+,Male,Lhuentse,Rural,8.8,6.3,2.0,6.0,8.0,7.0,9.0,2.4,Low,0
+18.0,Male,Chukha,Rural,7.7,5.6,,7.0,10.0,4.0,9.0,9.5,Low,1
+16.0,Female,Mongar,Rural,8.6,1.9,6.0,7.0,4.0,3.0,9.0,,Medium,1
+,Other,Trashiyangtse,Rural,6.3,1.9,7.0,9.0,3.0,10.0,1.0,,High,1
+20.0,Female,Samdrup Jongkhar,Urban,8.0,5.1,3.0,8.0,3.0,,,2.3,Medium,1
+22.0,Female,Paro,Urban,9.7,4.8,4.0,6.0,5.0,1.0,3.0,6.3,Medium,0
+16.0,Female,Lhuentse,Urban,7.2,3.3,5.0,6.0,1.0,3.0,4.0,9.4,Low,1
+18.0,Male,Bumthang,Rural,6.5,4.8,0.0,5.0,10.0,2.0,10.0,4.3,Medium,1
+17.0,Female,Thimphu,Urban,6.7,7.7,3.0,1.0,,,9.0,1.9,Medium,0
+24.0,Female,Wangdue Phodrang,Rural,6.2,5.9,2.0,9.0,6.0,,10.0,5.5,Medium,1
+21.0,Female,Thimphu,Rural,6.6,2.2,3.0,9.0,3.0,2.0,6.0,2.4,Low,1
+18.0,Female,Wangdue Phodrang,Rural,7.1,4.3,1.0,9.0,5.0,4.0,1.0,1.1,High,1
+23.0,Female,Lhuentse,Rural,5.8,2.9,4.0,8.0,9.0,2.0,9.0,3.2,Medium,0
+23.0,Female,Thimphu,Rural,7.5,3.7,4.0,,2.0,1.0,6.0,3.8,High,1
+17.0,Other,Haa,Rural,,,6.0,3.0,2.0,6.0,4.0,2.5,High,0
+21.0,Female,Tsirang,Rural,6.4,3.5,4.0,1.0,6.0,10.0,4.0,8.3,High,0
+22.0,Female,Dagana,Rural,9.3,2.0,4.0,8.0,6.0,8.0,3.0,9.7,Low,1
+17.0,Female,Tsirang,Rural,8.1,,7.0,7.0,8.0,10.0,7.0,6.5,Low,1
+17.0,Male,Samtse,Rural,8.7,3.4,4.0,5.0,2.0,10.0,3.0,6.0,Low,1
+,Female,Haa,Urban,6.7,,4.0,10.0,9.0,2.0,2.0,4.6,Low,1
+23.0,Male,Chukha,Urban,8.5,8.6,0.0,7.0,2.0,9.0,10.0,2.8,Low,1
+,Female,Trongsa,Rural,6.2,6.7,2.0,10.0,,3.0,8.0,9.0,Medium,1
+24.0,Other,Wangdue Phodrang,Rural,8.6,3.7,6.0,4.0,10.0,8.0,4.0,4.8,Medium,0
+21.0,Female,Pemagatshel,Rural,7.7,4.5,7.0,9.0,2.0,8.0,8.0,3.8,High,1
+22.0,Male,Dagana,Rural,8.2,2.2,4.0,10.0,,,1.0,7.5,High,0
+22.0,Male,Punakha,Urban,6.1,7.9,6.0,2.0,8.0,3.0,5.0,4.8,Low,0
+18.0,,Mongar,Rural,6.4,8.3,2.0,9.0,5.0,6.0,9.0,7.4,Low,1
+17.0,Female,Samdrup Jongkhar,Rural,8.2,4.8,7.0,9.0,6.0,1.0,1.0,4.0,Medium,0
+24.0,Male,Samdrup Jongkhar,Rural,6.4,6.5,5.0,5.0,1.0,4.0,4.0,7.5,Low,0
+23.0,Male,Thimphu,Rural,8.1,4.9,4.0,1.0,6.0,1.0,6.0,7.4,Medium,0
+22.0,Male,Tsirang,Rural,5.9,1.8,6.0,7.0,8.0,3.0,10.0,8.3,Low,1
+24.0,Female,Punakha,Urban,8.5,3.7,3.0,10.0,3.0,9.0,8.0,3.2,Medium,1
+19.0,Female,Tsirang,Rural,6.0,4.8,7.0,10.0,1.0,5.0,3.0,4.8,Low,1
+19.0,Male,Punakha,Rural,8.2,,7.0,4.0,4.0,5.0,,9.9,High,1
+16.0,Male,Punakha,Rural,8.3,,6.0,9.0,1.0,4.0,7.0,4.4,Medium,1
+23.0,Female,Bumthang,Rural,6.7,4.3,4.0,6.0,8.0,3.0,1.0,7.0,Low,0
+18.0,Female,Chukha,Urban,8.2,,1.0,3.0,,5.0,7.0,10.7,Medium,1
+22.0,Female,Trongsa,Urban,7.8,4.6,0.0,6.0,1.0,4.0,8.0,1.0,High,0
+17.0,Male,Bumthang,Urban,6.9,2.4,3.0,10.0,8.0,8.0,8.0,4.3,High,1
+,Female,Samdrup Jongkhar,Rural,6.3,3.1,3.0,6.0,9.0,4.0,9.0,5.0,High,1
+22.0,Female,Wangdue Phodrang,Urban,5.1,1.9,1.0,,10.0,8.0,6.0,1.0,Medium,0
+21.0,Female,Pemagatshel,Urban,,6.5,4.0,2.0,2.0,6.0,6.0,3.9,Low,1
+18.0,Female,Samtse,Rural,5.6,1.0,7.0,10.0,9.0,5.0,2.0,2.6,Low,0
+24.0,Male,Chukha,Urban,7.6,6.8,7.0,10.0,8.0,4.0,3.0,7.1,Low,0
+21.0,Male,Pemagatshel,Rural,7.2,7.3,,2.0,7.0,4.0,4.0,1.0,Medium,0
+21.0,Female,Pemagatshel,Rural,8.3,3.9,3.0,7.0,3.0,4.0,4.0,9.7,Medium,1
+16.0,Female,Tsirang,Rural,7.1,,0.0,2.0,2.0,9.0,8.0,6.7,Medium,1
+,Female,Trashiyangtse,Urban,7.1,3.8,3.0,6.0,7.0,4.0,1.0,2.4,Medium,0
+21.0,Female,Tsirang,Urban,8.4,4.4,4.0,5.0,5.0,9.0,10.0,7.6,Low,1
+21.0,Female,Thimphu,Rural,7.9,2.5,5.0,4.0,6.0,10.0,4.0,6.5,,1
+20.0,Female,Zhemgang,Rural,7.9,3.5,3.0,7.0,4.0,6.0,4.0,4.9,Low,1
+16.0,Male,Lhuentse,Rural,8.1,7.6,,8.0,2.0,10.0,1.0,3.2,Medium,1
+23.0,Female,Sarpang,Urban,5.7,5.8,,4.0,9.0,7.0,3.0,6.4,Medium,1
+20.0,Male,Bumthang,Rural,8.4,2.7,7.0,1.0,3.0,10.0,5.0,5.3,Low,1
+20.0,Male,Lhuentse,Rural,8.2,1.3,2.0,1.0,7.0,3.0,6.0,3.3,Medium,0
+22.0,Other,,Rural,6.3,3.8,4.0,1.0,8.0,8.0,9.0,1.6,Medium,0
+19.0,Male,Thimphu,Rural,7.2,4.1,1.0,1.0,2.0,3.0,9.0,2.9,High,0
+21.0,Male,Pemagatshel,Rural,7.5,5.5,,5.0,6.0,1.0,9.0,3.7,Low,0
+19.0,Male,Samtse,Rural,7.3,3.4,1.0,4.0,8.0,10.0,1.0,7.9,Low,1
+18.0,Female,Bumthang,Urban,7.9,5.5,4.0,9.0,7.0,5.0,9.0,,Low,1
+22.0,Male,Thimphu,Rural,9.2,8.4,6.0,3.0,3.0,2.0,,3.9,Medium,0
+23.0,Male,Zhemgang,Urban,8.8,6.1,1.0,7.0,1.0,10.0,2.0,4.0,Low,1
+19.0,Male,Dagana,Rural,5.9,4.4,4.0,8.0,,6.0,1.0,7.5,High,1
+17.0,Male,Tsirang,Rural,8.2,4.1,7.0,,8.0,10.0,1.0,5.7,High,1
+18.0,Male,Lhuentse,Urban,9.1,3.8,1.0,10.0,6.0,,6.0,5.6,Low,1
+16.0,Male,,Urban,,6.9,5.0,1.0,5.0,1.0,9.0,3.2,High,0
+23.0,Female,Trashigang,Urban,8.8,3.2,2.0,8.0,8.0,4.0,7.0,4.7,Medium,1
+18.0,Male,Haa,Rural,9.9,4.6,1.0,,2.0,1.0,5.0,5.0,Low,1
+22.0,Male,Samtse,Rural,8.7,4.6,5.0,3.0,,1.0,2.0,4.8,Medium,0
+20.0,Male,Trashiyangtse,Urban,7.8,3.5,3.0,8.0,1.0,8.0,1.0,6.8,High,1
+20.0,Male,Zhemgang,Rural,8.8,1.8,4.0,4.0,4.0,2.0,2.0,6.9,Low,0
+22.0,Female,Paro,Rural,,5.1,0.0,8.0,,1.0,1.0,2.7,High,1
+24.0,Female,Zhemgang,Urban,7.5,4.4,6.0,1.0,9.0,8.0,3.0,3.7,Low,0
+20.0,Male,Zhemgang,Urban,7.1,5.5,7.0,3.0,1.0,4.0,6.0,3.3,Low,0
+16.0,Male,Samtse,Rural,9.4,3.4,0.0,6.0,,3.0,8.0,,Medium,1
+16.0,Male,Lhuentse,Rural,6.5,6.9,7.0,9.0,5.0,4.0,3.0,10.6,Low,1
+17.0,Female,,Rural,9.3,2.7,4.0,2.0,10.0,5.0,,3.8,Low,0
+21.0,Female,Pemagatshel,Urban,8.1,7.9,7.0,1.0,5.0,1.0,9.0,4.6,Medium,0
+24.0,Female,Samdrup Jongkhar,Urban,5.8,1.0,2.0,10.0,5.0,1.0,10.0,7.1,Low,1
+23.0,Male,Mongar,Rural,7.9,5.4,1.0,3.0,10.0,3.0,5.0,3.2,Medium,0
+20.0,Female,Trashiyangtse,Urban,5.0,5.5,2.0,4.0,6.0,6.0,,,Medium,1
+16.0,Male,Trongsa,Urban,8.3,2.9,0.0,5.0,8.0,1.0,8.0,4.9,High,0
+22.0,,Tsirang,Urban,8.6,5.3,6.0,3.0,3.0,2.0,3.0,,High,0
+20.0,Male,Pemagatshel,Rural,6.8,7.1,5.0,10.0,9.0,7.0,2.0,1.7,Low,0
+21.0,Male,Pemagatshel,Rural,,1.0,6.0,,1.0,1.0,2.0,4.2,Low,0
+22.0,Female,Punakha,Rural,9.8,5.5,4.0,2.0,4.0,7.0,5.0,8.1,Low,0
+18.0,Female,Chukha,Rural,,1.0,4.0,7.0,9.0,4.0,1.0,2.8,High,0
+18.0,Male,Trashiyangtse,Urban,6.2,2.6,2.0,9.0,8.0,10.0,2.0,3.7,High,1
+20.0,Female,Wangdue Phodrang,Rural,9.3,7.8,5.0,10.0,10.0,6.0,9.0,5.5,Medium,0
+21.0,Other,Dagana,Urban,,3.3,2.0,,9.0,8.0,7.0,1.0,Low,0
+24.0,,Tsirang,Rural,,2.2,1.0,7.0,1.0,9.0,,5.7,High,1
+20.0,Female,Haa,Rural,8.7,4.1,3.0,7.0,9.0,6.0,9.0,1.1,High,1
+16.0,Female,Haa,Rural,9.1,8.6,5.0,7.0,3.0,9.0,,6.4,High,1
+19.0,Other,Trashigang,Urban,6.6,1.0,3.0,3.0,10.0,4.0,5.0,3.0,High,0
+20.0,Female,Punakha,Rural,6.9,2.4,6.0,7.0,9.0,6.0,9.0,2.6,Medium,1
+20.0,Male,Punakha,Urban,9.0,7.5,1.0,1.0,1.0,8.0,,5.7,Low,0
+22.0,Male,Wangdue Phodrang,Rural,9.5,8.2,7.0,10.0,1.0,9.0,6.0,7.0,Medium,1
+19.0,Female,Samdrup Jongkhar,Rural,8.2,4.3,7.0,1.0,9.0,3.0,4.0,5.9,Low,0
+16.0,Male,Haa,Rural,6.4,2.0,3.0,5.0,6.0,2.0,1.0,5.5,Medium,0
+20.0,Female,,Rural,9.9,8.7,0.0,2.0,4.0,6.0,5.0,5.6,High,0
+22.0,Male,Pemagatshel,Rural,6.9,7.7,6.0,9.0,7.0,4.0,9.0,6.0,Low,1
+21.0,Male,Chukha,Urban,7.1,5.9,3.0,7.0,5.0,1.0,,6.1,Medium,1
+20.0,Male,Thimphu,Rural,,,1.0,4.0,10.0,8.0,8.0,4.0,Medium,1
+19.0,Male,Trongsa,Urban,9.4,4.4,3.0,4.0,7.0,9.0,5.0,6.6,High,1
+17.0,Female,Chukha,Rural,8.5,4.2,4.0,2.0,8.0,9.0,9.0,3.0,,0
+19.0,Female,Samtse,Rural,,5.2,2.0,5.0,8.0,2.0,,7.7,High,1
+18.0,,Samdrup Jongkhar,Rural,8.1,7.4,0.0,4.0,1.0,9.0,3.0,7.0,High,1
+16.0,Female,Trashiyangtse,Rural,7.6,6.3,4.0,1.0,8.0,7.0,1.0,10.5,High,0
+,Male,Tsirang,Rural,8.2,2.3,4.0,8.0,6.0,5.0,9.0,6.3,Medium,1
+20.0,Female,Pemagatshel,Urban,4.5,7.3,1.0,3.0,4.0,7.0,6.0,7.3,Low,1
+19.0,Female,Wangdue Phodrang,Rural,7.1,5.1,2.0,,,9.0,2.0,1.1,Medium,0
+23.0,Female,,Urban,,5.9,2.0,4.0,3.0,8.0,8.0,7.4,High,1
+22.0,Male,Pemagatshel,Rural,6.1,7.4,5.0,9.0,4.0,,9.0,7.9,Medium,1
+17.0,Female,Trashigang,Urban,8.0,2.3,6.0,7.0,6.0,4.0,9.0,8.8,High,0
+16.0,Female,Wangdue Phodrang,Urban,7.3,4.4,0.0,9.0,7.0,1.0,2.0,5.3,Medium,1
+19.0,Other,Sarpang,Rural,9.6,3.4,6.0,,4.0,6.0,2.0,4.1,Low,1
+23.0,Female,Zhemgang,Urban,9.4,1.4,1.0,3.0,4.0,3.0,7.0,2.3,Medium,0
+17.0,Male,Trashigang,Rural,6.9,5.2,0.0,1.0,7.0,6.0,4.0,2.5,Medium,0
+18.0,Female,Tsirang,Urban,7.3,9.5,5.0,5.0,6.0,6.0,1.0,4.9,High,0
+16.0,Female,Dagana,Urban,7.4,1.0,3.0,3.0,8.0,4.0,,1.0,High,0
+16.0,Male,Paro,Rural,7.0,4.4,4.0,6.0,1.0,2.0,2.0,3.1,Medium,0
+18.0,Female,Tsirang,Urban,7.7,,0.0,8.0,10.0,9.0,3.0,5.2,Medium,1
+20.0,Female,Sarpang,Urban,6.6,4.7,6.0,4.0,7.0,2.0,5.0,5.2,Medium,0
+18.0,Male,Punakha,Rural,6.1,4.3,4.0,5.0,7.0,3.0,3.0,2.6,Medium,0
+,Male,,Urban,8.2,1.9,1.0,5.0,7.0,10.0,7.0,1.9,Medium,1
+16.0,Male,Wangdue Phodrang,Rural,8.3,5.0,6.0,4.0,,1.0,7.0,2.3,Medium,0
+23.0,Male,Thimphu,Urban,6.5,3.0,3.0,4.0,10.0,7.0,2.0,4.4,Medium,0
+17.0,Male,Pemagatshel,Urban,8.6,1.0,1.0,4.0,10.0,1.0,7.0,10.3,Low,1
+,Female,Trashigang,Rural,6.7,6.9,7.0,4.0,8.0,9.0,6.0,7.7,High,0
+,Male,Pemagatshel,Urban,,6.4,3.0,4.0,9.0,1.0,10.0,5.5,Low,0
+18.0,Male,Trashigang,Urban,8.5,4.6,3.0,5.0,9.0,5.0,9.0,6.4,High,1
+22.0,Female,Paro,Urban,7.5,5.0,4.0,2.0,2.0,7.0,9.0,,Low,1
+16.0,Female,Sarpang,Urban,8.0,6.6,1.0,2.0,7.0,3.0,2.0,6.7,Medium,0
+23.0,Male,Samtse,Rural,6.9,4.9,1.0,9.0,7.0,9.0,7.0,4.2,Medium,1
+17.0,Male,Samtse,Urban,7.3,6.3,0.0,,4.0,8.0,5.0,2.9,Low,1
+18.0,Male,Thimphu,Rural,7.3,3.9,6.0,6.0,9.0,3.0,6.0,4.7,Low,0
+24.0,Female,Wangdue Phodrang,Rural,6.6,,7.0,2.0,8.0,5.0,1.0,7.5,Medium,0
+22.0,Male,Chukha,Rural,7.3,5.1,1.0,5.0,1.0,7.0,7.0,4.3,Medium,0
+19.0,Female,Trashiyangtse,Rural,5.6,4.9,0.0,4.0,2.0,4.0,6.0,2.2,Low,1
+20.0,Other,Wangdue Phodrang,Urban,6.9,2.0,7.0,7.0,2.0,5.0,4.0,1.0,Medium,0
+17.0,Male,Trashiyangtse,Rural,7.2,5.1,2.0,7.0,8.0,3.0,1.0,4.7,Medium,0
+23.0,Female,Zhemgang,Urban,7.2,2.8,2.0,6.0,1.0,9.0,9.0,2.4,High,1
+19.0,Other,Sarpang,Rural,7.2,3.2,7.0,10.0,4.0,10.0,4.0,3.9,Medium,1
+24.0,Male,Thimphu,Rural,7.4,2.9,2.0,5.0,10.0,9.0,2.0,8.6,Low,0
+20.0,Female,Samtse,Urban,8.1,2.4,5.0,1.0,5.0,7.0,8.0,4.9,Medium,1
+24.0,,Lhuentse,Rural,8.5,8.7,1.0,3.0,9.0,10.0,2.0,3.1,Medium,0
+19.0,Female,Bumthang,Rural,6.7,7.2,5.0,9.0,7.0,2.0,5.0,5.8,Low,0
+20.0,Female,Dagana,Urban,6.1,8.3,6.0,1.0,8.0,7.0,6.0,9.8,High,0
+24.0,Female,Zhemgang,Urban,6.2,2.1,1.0,,9.0,7.0,8.0,4.7,Medium,1
+23.0,Female,Paro,,6.9,4.6,0.0,2.0,7.0,5.0,,1.0,High,0
+18.0,Female,Sarpang,Rural,7.1,1.9,5.0,4.0,5.0,9.0,1.0,6.6,Medium,0
+16.0,Female,Trashiyangtse,Rural,6.6,3.1,5.0,,5.0,3.0,4.0,5.9,Medium,0
+18.0,Female,Lhuentse,Rural,5.9,2.7,6.0,3.0,10.0,4.0,5.0,5.2,Medium,0
+19.0,Female,Trashiyangtse,Rural,7.0,,5.0,10.0,6.0,1.0,9.0,4.5,Medium,0
+17.0,Male,Pemagatshel,Rural,7.7,3.7,3.0,7.0,5.0,6.0,7.0,3.0,Medium,1
+16.0,Male,Samdrup Jongkhar,Urban,,6.6,0.0,10.0,9.0,4.0,7.0,8.8,High,1
+22.0,Male,Trongsa,Urban,6.8,5.7,2.0,3.0,3.0,1.0,8.0,1.0,Medium,0
+23.0,Male,Pemagatshel,Rural,7.0,9.1,0.0,4.0,3.0,2.0,5.0,4.2,High,0
+22.0,Male,Bumthang,Rural,6.4,1.5,3.0,2.0,7.0,3.0,5.0,4.2,High,0
+20.0,Female,Sarpang,Urban,7.5,7.0,6.0,3.0,7.0,9.0,1.0,7.1,High,0
+16.0,Male,Lhuentse,Urban,6.5,6.8,6.0,9.0,,8.0,9.0,8.1,Medium,0
+22.0,Female,Dagana,Rural,8.2,2.6,1.0,3.0,3.0,7.0,6.0,4.4,Low,1
+22.0,Male,Bumthang,Rural,5.4,6.5,0.0,5.0,7.0,4.0,9.0,5.5,Low,1
+,Female,Haa,Rural,7.1,5.2,7.0,2.0,5.0,1.0,3.0,5.7,Low,0
+18.0,Other,Pemagatshel,Rural,,4.0,7.0,,7.0,8.0,5.0,7.6,Low,0
+24.0,Male,Dagana,Urban,7.7,,6.0,,,4.0,2.0,7.6,Low,0
+16.0,Female,Samdrup Jongkhar,Urban,10.0,3.1,5.0,7.0,6.0,3.0,10.0,3.7,Low,0
+16.0,Male,Chukha,Urban,7.9,8.6,6.0,3.0,8.0,9.0,5.0,6.1,High,0
+19.0,Female,Samtse,Urban,6.3,4.5,,5.0,1.0,10.0,8.0,6.0,High,1
+24.0,Male,Samdrup Jongkhar,Rural,7.4,6.1,6.0,1.0,4.0,4.0,2.0,4.7,Medium,0
+21.0,,Trashigang,Rural,5.4,2.9,6.0,10.0,,4.0,8.0,5.9,Medium,1
+18.0,Male,Paro,Rural,7.4,2.9,7.0,10.0,1.0,9.0,4.0,5.1,Medium,1
+16.0,Female,,Rural,6.5,6.7,7.0,10.0,10.0,2.0,10.0,5.4,Medium,1
+19.0,Female,Punakha,Urban,8.6,1.8,2.0,1.0,8.0,5.0,10.0,1.6,Medium,0
+24.0,Male,Trongsa,Rural,6.8,3.7,2.0,5.0,7.0,4.0,1.0,2.7,Medium,0
+,Male,Thimphu,Rural,7.4,4.6,1.0,10.0,10.0,9.0,5.0,7.0,Medium,1
+,Male,Punakha,Rural,6.7,4.7,6.0,9.0,1.0,5.0,1.0,2.0,,1
+22.0,Male,Haa,Urban,9.6,4.1,7.0,1.0,2.0,9.0,7.0,6.2,Medium,1
+19.0,Female,Samdrup Jongkhar,Rural,7.1,5.3,0.0,1.0,4.0,9.0,8.0,4.8,Low,1
+18.0,Male,Sarpang,Rural,9.7,5.9,3.0,4.0,,2.0,3.0,7.6,Low,0
+20.0,Male,Tsirang,Urban,8.5,6.0,1.0,4.0,3.0,9.0,,6.6,Low,1
+20.0,Male,Trashigang,Urban,8.1,2.5,7.0,2.0,8.0,3.0,7.0,3.9,Medium,0
+18.0,Female,Trashigang,Rural,7.9,3.9,0.0,9.0,8.0,4.0,4.0,4.4,Medium,0
+24.0,Male,Chukha,Rural,8.0,6.9,6.0,9.0,8.0,1.0,3.0,1.0,Low,0
+19.0,Male,Samtse,Urban,5.2,6.3,4.0,2.0,6.0,1.0,8.0,4.7,Medium,0
+20.0,Male,Trongsa,,7.2,1.8,6.0,9.0,6.0,1.0,3.0,1.8,Low,0
+19.0,Male,Zhemgang,Urban,8.5,5.2,,6.0,5.0,9.0,7.0,4.5,Low,1
+20.0,Female,,Rural,7.4,1.0,3.0,8.0,9.0,8.0,2.0,3.4,Low,0
+22.0,Male,Zhemgang,Urban,5.8,4.6,7.0,10.0,4.0,5.0,1.0,2.8,Medium,1
+24.0,Male,Lhuentse,Rural,7.4,8.3,7.0,4.0,10.0,5.0,6.0,8.0,Medium,0
+22.0,Female,Haa,Urban,9.5,2.6,5.0,,7.0,9.0,8.0,1.8,Medium,0
+20.0,Female,Trashiyangtse,Urban,9.0,2.8,3.0,2.0,,3.0,1.0,2.6,Medium,0
+22.0,Male,Haa,Urban,,6.0,5.0,9.0,9.0,3.0,10.0,3.3,Low,1
+20.0,Female,Samdrup Jongkhar,Urban,8.6,1.4,3.0,1.0,7.0,7.0,9.0,3.8,High,1
+,,Dagana,Rural,7.1,3.2,2.0,7.0,10.0,9.0,3.0,2.8,High,0
+22.0,Male,Lhuentse,Urban,5.5,5.7,5.0,3.0,,6.0,3.0,4.1,Low,0
+,Female,Mongar,Rural,6.4,3.2,0.0,3.0,7.0,2.0,4.0,5.8,High,0
+24.0,Female,Pemagatshel,Urban,9.4,4.0,5.0,2.0,2.0,1.0,1.0,6.7,High,0
+16.0,,Paro,Urban,7.2,,,10.0,6.0,2.0,9.0,6.6,High,1
+21.0,Male,Samdrup Jongkhar,Urban,7.2,5.3,0.0,6.0,10.0,1.0,3.0,1.0,Medium,0
+22.0,Male,Mongar,Urban,7.1,,1.0,10.0,4.0,,10.0,6.0,Low,1
+23.0,Female,Trashigang,Urban,9.8,,6.0,2.0,3.0,10.0,4.0,6.1,Medium,1
+24.0,Other,Haa,Rural,9.5,5.2,3.0,10.0,2.0,9.0,1.0,3.3,Low,1
+17.0,Female,Thimphu,Rural,10.0,4.3,0.0,4.0,6.0,10.0,4.0,9.2,Medium,1
+17.0,Male,Tsirang,Rural,7.3,5.4,3.0,10.0,8.0,8.0,1.0,7.7,Low,0
+20.0,Female,Paro,Rural,7.9,3.5,,9.0,6.0,7.0,5.0,4.5,Low,0
+20.0,Female,Haa,Rural,5.7,4.1,,9.0,9.0,3.0,5.0,3.5,Medium,0
+21.0,Male,Trashigang,Urban,9.3,2.5,7.0,6.0,5.0,8.0,7.0,9.1,Medium,1
+18.0,Male,Dagana,Rural,,4.4,3.0,4.0,2.0,2.0,8.0,5.0,High,1
+23.0,Female,Lhuentse,Rural,7.8,2.9,6.0,7.0,8.0,2.0,4.0,5.2,Low,1
+16.0,Male,Trongsa,Rural,6.2,2.3,3.0,1.0,9.0,10.0,7.0,5.2,Low,0
+21.0,Female,Haa,Rural,6.8,5.0,6.0,,10.0,3.0,4.0,10.8,High,1
+19.0,Male,Chukha,Urban,6.5,,1.0,5.0,4.0,7.0,3.0,4.5,Low,1
+,Male,Wangdue Phodrang,Rural,6.8,,,8.0,6.0,1.0,6.0,4.9,Medium,0
+22.0,Male,Zhemgang,Rural,6.9,3.6,5.0,2.0,10.0,,4.0,2.9,High,0
+24.0,Male,Zhemgang,,6.8,5.3,4.0,,8.0,7.0,3.0,4.0,Medium,0
+19.0,Female,Tsirang,Rural,8.5,5.6,3.0,6.0,9.0,4.0,9.0,2.4,Medium,0
+19.0,Male,Trashigang,,6.2,5.4,,5.0,5.0,5.0,5.0,3.0,Medium,0
+21.0,Female,Zhemgang,Urban,7.8,2.8,6.0,9.0,,10.0,7.0,1.0,Medium,1
+18.0,Female,Thimphu,Rural,9.0,4.8,3.0,10.0,4.0,1.0,6.0,7.2,Low,0
+21.0,Female,Sarpang,Rural,6.9,,7.0,1.0,,4.0,10.0,5.4,,0
+22.0,Male,Mongar,Urban,6.6,4.5,,3.0,7.0,1.0,5.0,5.6,Low,0
+18.0,Female,Haa,Urban,7.2,1.0,4.0,2.0,9.0,1.0,7.0,4.9,Medium,0
+22.0,Female,Zhemgang,Urban,8.9,4.8,6.0,3.0,10.0,10.0,6.0,5.2,High,1
+18.0,Male,Trongsa,Urban,7.7,8.9,0.0,10.0,6.0,1.0,10.0,9.0,Medium,1
+17.0,Male,Thimphu,Rural,6.9,3.8,1.0,9.0,6.0,7.0,2.0,3.1,High,1
+19.0,Female,Haa,Rural,8.1,3.0,4.0,9.0,8.0,7.0,3.0,5.7,Medium,0
+23.0,Other,Tsirang,Urban,6.2,5.2,4.0,10.0,4.0,4.0,2.0,5.7,Medium,1
+24.0,Male,Bumthang,Urban,8.3,5.1,2.0,2.0,3.0,2.0,3.0,7.9,Medium,0
+22.0,Female,Wangdue Phodrang,Urban,8.0,6.9,5.0,3.0,7.0,3.0,1.0,6.1,High,0
+16.0,Female,Tsirang,Urban,7.1,2.0,4.0,4.0,5.0,8.0,8.0,6.2,Medium,1
+18.0,Female,Trashiyangtse,Rural,6.5,6.0,1.0,9.0,2.0,,6.0,1.9,Low,1
+24.0,Other,Samtse,Rural,6.4,5.7,5.0,3.0,,6.0,2.0,3.0,High,0
+16.0,Female,Thimphu,Rural,8.1,4.2,5.0,7.0,6.0,10.0,8.0,2.1,Medium,1
+24.0,Male,Bumthang,Urban,9.0,5.2,3.0,3.0,8.0,9.0,6.0,1.0,Medium,0
+23.0,Male,Tsirang,Rural,6.7,6.6,3.0,7.0,1.0,9.0,7.0,6.0,Medium,1
+16.0,Male,Mongar,Rural,8.1,6.2,3.0,7.0,6.0,,1.0,4.3,High,0
+21.0,Female,Haa,Rural,5.0,2.2,3.0,9.0,2.0,,7.0,6.0,Medium,1
+20.0,Female,Trongsa,Rural,6.8,6.1,2.0,2.0,2.0,1.0,3.0,5.1,Low,0
+21.0,Male,Trashiyangtse,Urban,7.5,4.4,4.0,6.0,7.0,10.0,8.0,5.6,High,1
+20.0,Female,Trashiyangtse,Urban,6.4,4.6,3.0,9.0,10.0,5.0,6.0,8.3,Medium,1
+21.0,Female,Mongar,Urban,,4.6,6.0,2.0,1.0,2.0,4.0,5.0,Medium,0
+20.0,Female,Trashiyangtse,Urban,6.7,4.2,0.0,2.0,6.0,6.0,8.0,6.7,Low,1
+20.0,Male,Trashigang,Urban,7.9,6.9,3.0,5.0,7.0,7.0,9.0,4.2,Low,1
+19.0,Female,Samtse,Rural,7.3,4.3,4.0,10.0,8.0,1.0,10.0,7.1,Medium,1
+18.0,Male,Paro,Rural,4.8,2.3,3.0,10.0,7.0,6.0,2.0,1.9,High,0
+18.0,Male,Punakha,Rural,5.0,3.7,2.0,10.0,6.0,8.0,6.0,1.0,Low,1
+19.0,Male,Trongsa,Urban,6.8,4.9,1.0,8.0,9.0,5.0,,10.3,Medium,1
+24.0,Male,Lhuentse,Rural,8.0,7.0,1.0,9.0,3.0,7.0,5.0,9.6,Low,1
+,Male,Samdrup Jongkhar,Rural,,5.7,4.0,2.0,6.0,10.0,10.0,1.0,Medium,1
+24.0,Female,Wangdue Phodrang,Rural,6.9,2.8,6.0,5.0,4.0,6.0,3.0,4.9,Low,1
+16.0,Male,,Rural,6.9,9.5,1.0,7.0,2.0,4.0,8.0,5.4,Low,1
+16.0,Female,Thimphu,Rural,9.2,5.0,7.0,6.0,1.0,7.0,8.0,6.8,Low,1
+20.0,Male,Samtse,Rural,7.0,7.1,1.0,6.0,1.0,,5.0,,Medium,1
+21.0,Female,Tsirang,Urban,8.0,4.2,0.0,,10.0,9.0,8.0,2.3,Medium,0
+21.0,Other,Thimphu,Urban,7.7,5.6,4.0,3.0,3.0,10.0,10.0,2.5,Medium,1
+18.0,Male,Mongar,Urban,,6.2,6.0,,4.0,10.0,8.0,5.0,High,1
+22.0,Male,Tsirang,Urban,8.4,6.9,4.0,10.0,2.0,7.0,3.0,2.6,Low,1
+24.0,Male,Thimphu,Urban,7.8,6.6,1.0,9.0,1.0,5.0,2.0,1.0,Medium,1
+23.0,Female,Zhemgang,Rural,8.1,6.2,1.0,8.0,4.0,7.0,9.0,4.4,High,1
+21.0,Female,Zhemgang,Rural,10.0,3.9,1.0,5.0,7.0,3.0,2.0,7.1,Medium,1
+23.0,Male,Samdrup Jongkhar,Rural,5.0,3.4,5.0,6.0,10.0,2.0,9.0,4.9,Medium,0
+20.0,Female,Dagana,Urban,9.6,5.2,2.0,10.0,6.0,5.0,4.0,6.6,Low,0
+23.0,Male,Trashigang,Rural,7.2,6.4,3.0,1.0,6.0,4.0,2.0,6.2,Medium,0
+19.0,,Zhemgang,Rural,7.8,4.1,7.0,10.0,9.0,5.0,10.0,2.4,Medium,0
+23.0,Female,Lhuentse,Urban,7.4,,2.0,1.0,2.0,8.0,1.0,5.2,High,0
+,Male,Lhuentse,Rural,7.0,7.4,4.0,4.0,4.0,4.0,4.0,1.2,Medium,0
+20.0,Female,Tsirang,Urban,6.8,2.7,7.0,2.0,5.0,9.0,9.0,3.7,Medium,1
+24.0,Male,Samdrup Jongkhar,Urban,7.9,2.8,0.0,7.0,1.0,7.0,9.0,5.1,Medium,1
+19.0,Other,Lhuentse,Rural,5.7,4.2,3.0,,8.0,10.0,4.0,5.0,High,0
+21.0,Male,Haa,Urban,8.4,5.1,0.0,10.0,8.0,7.0,9.0,,Low,1
+16.0,Male,Mongar,Rural,7.0,3.5,6.0,2.0,6.0,8.0,6.0,2.3,Medium,1
+24.0,Female,Haa,Rural,6.1,7.2,5.0,5.0,5.0,6.0,1.0,5.7,Low,0
+16.0,Male,Paro,Rural,7.0,5.3,4.0,4.0,8.0,8.0,10.0,7.1,Medium,1
+20.0,Other,Paro,Urban,9.0,4.6,5.0,8.0,3.0,3.0,6.0,,Low,1
+19.0,Female,Wangdue Phodrang,Urban,6.9,1.6,4.0,4.0,,10.0,9.0,4.4,High,1
+18.0,Female,Dagana,Urban,7.9,1.9,0.0,,2.0,10.0,2.0,7.3,Medium,1
+21.0,Female,Bumthang,Rural,6.6,5.1,0.0,5.0,5.0,1.0,6.0,3.1,,1
+17.0,Female,Haa,Rural,8.4,1.0,0.0,2.0,3.0,6.0,2.0,9.3,High,1
+18.0,Female,Mongar,Urban,8.3,6.5,4.0,8.0,3.0,1.0,4.0,1.6,Low,0
+,Female,Punakha,Rural,9.7,4.2,1.0,,6.0,9.0,8.0,7.6,Medium,1
+24.0,Female,Trashigang,Rural,7.3,10.0,0.0,9.0,8.0,2.0,7.0,,High,0
+17.0,Male,Sarpang,Urban,8.3,9.1,5.0,9.0,2.0,2.0,9.0,11.0,Medium,1
+23.0,Male,Haa,Rural,7.6,4.1,6.0,3.0,4.0,7.0,7.0,2.2,Low,0
+17.0,Female,Sarpang,Rural,9.1,4.3,3.0,4.0,7.0,2.0,1.0,1.0,Medium,0
+,Male,Samdrup Jongkhar,Urban,6.6,6.5,4.0,8.0,1.0,10.0,2.0,8.1,Medium,1
+22.0,Female,Paro,Urban,8.4,7.9,7.0,9.0,1.0,8.0,6.0,1.3,High,1
+23.0,Male,Dagana,Rural,7.3,,5.0,3.0,10.0,6.0,,6.5,Low,1
+16.0,Male,Trashigang,Rural,7.4,1.0,2.0,5.0,7.0,,3.0,8.0,High,1
+21.0,Female,Samdrup Jongkhar,Rural,7.6,3.3,,8.0,7.0,7.0,9.0,5.9,High,1
+16.0,Female,Trongsa,Rural,7.8,5.7,2.0,3.0,1.0,6.0,7.0,5.6,Low,0
+17.0,Male,Trongsa,Urban,7.4,5.5,3.0,7.0,1.0,10.0,6.0,6.0,Low,1
+16.0,Female,Samdrup Jongkhar,Urban,7.8,6.6,1.0,8.0,4.0,9.0,6.0,7.1,Low,1
+20.0,,Thimphu,Rural,9.4,2.1,0.0,10.0,5.0,9.0,1.0,6.5,Medium,1
+24.0,Male,Mongar,Urban,8.7,1.0,4.0,3.0,5.0,7.0,5.0,2.0,Medium,0
+21.0,Female,Sarpang,Urban,8.5,6.2,5.0,,4.0,9.0,10.0,9.6,Low,1
+16.0,Male,Punakha,Rural,7.0,2.8,7.0,10.0,8.0,10.0,3.0,5.1,,1
+16.0,Male,Thimphu,Rural,6.4,1.0,,7.0,7.0,3.0,7.0,6.3,Medium,1
+17.0,Other,Haa,Rural,8.6,4.8,5.0,9.0,9.0,,10.0,6.8,Medium,1
+24.0,Male,Samtse,,8.6,6.1,4.0,,7.0,1.0,3.0,7.9,Low,0
+18.0,Female,Wangdue Phodrang,Urban,9.3,4.3,2.0,3.0,10.0,5.0,5.0,7.6,Low,1
+16.0,Female,Samtse,Rural,6.8,3.6,0.0,5.0,1.0,4.0,7.0,5.3,Medium,1
+20.0,,Haa,Urban,7.2,4.2,3.0,3.0,7.0,2.0,3.0,5.2,Medium,0
+22.0,Female,Wangdue Phodrang,Rural,5.5,3.8,1.0,1.0,1.0,9.0,10.0,6.0,High,1
+21.0,Female,Bumthang,,7.0,1.8,3.0,7.0,7.0,3.0,2.0,7.8,Medium,1
+,Male,Paro,Rural,8.7,3.1,1.0,7.0,10.0,8.0,6.0,2.2,Medium,1
+20.0,Female,Mongar,Rural,6.9,,,10.0,8.0,6.0,8.0,6.6,Low,1
+20.0,Female,Trashiyangtse,Rural,8.3,5.1,5.0,8.0,9.0,5.0,4.0,2.8,Medium,1
+21.0,Female,Wangdue Phodrang,Urban,7.3,4.8,0.0,5.0,3.0,1.0,9.0,9.6,Medium,1
+18.0,Female,Samtse,Rural,7.9,2.5,0.0,10.0,4.0,4.0,8.0,5.9,Low,1
+20.0,Male,Trashiyangtse,Rural,6.1,4.1,6.0,5.0,4.0,3.0,7.0,4.0,Medium,1
+22.0,Female,Trongsa,Urban,7.6,1.0,1.0,5.0,9.0,1.0,7.0,6.1,Low,0
+20.0,Female,Paro,Rural,4.0,4.9,2.0,,7.0,5.0,3.0,5.0,Low,0
+20.0,Female,Samdrup Jongkhar,Rural,7.3,7.4,4.0,10.0,3.0,6.0,6.0,4.6,High,1
+20.0,Female,Sarpang,Urban,5.5,1.6,3.0,5.0,10.0,2.0,5.0,1.0,Low,0
+18.0,Female,Trashigang,Rural,8.9,3.3,6.0,6.0,5.0,3.0,1.0,2.4,,0
+16.0,Female,,Rural,8.4,5.2,7.0,1.0,7.0,6.0,3.0,4.6,Medium,0
+,Female,Wangdue Phodrang,Rural,8.1,7.0,7.0,7.0,8.0,4.0,1.0,1.0,Low,0
+,Female,Lhuentse,Rural,9.3,3.6,5.0,1.0,1.0,9.0,4.0,3.5,Medium,1
+16.0,Female,Dagana,,6.4,3.1,6.0,2.0,2.0,5.0,,3.8,Medium,1
+18.0,Female,Lhuentse,Rural,9.6,1.0,3.0,2.0,7.0,4.0,3.0,3.1,Medium,0
+19.0,Female,Tsirang,Rural,8.6,4.7,3.0,5.0,2.0,,4.0,6.9,Low,0
+16.0,Male,Zhemgang,Urban,7.2,8.6,5.0,10.0,7.0,,9.0,,Low,1
+16.0,Male,Zhemgang,Rural,,5.1,5.0,7.0,9.0,10.0,3.0,5.2,Medium,0
+23.0,Male,Sarpang,Rural,6.2,4.5,0.0,,2.0,2.0,6.0,4.1,Medium,0
+17.0,Female,Punakha,Urban,6.5,5.1,3.0,10.0,7.0,7.0,6.0,4.7,High,1
+23.0,Female,Bumthang,Rural,6.8,4.5,,1.0,4.0,3.0,7.0,9.0,Medium,1
+22.0,Female,Wangdue Phodrang,Rural,6.9,2.9,7.0,,2.0,9.0,9.0,5.4,Medium,1
+17.0,Male,Haa,Urban,6.2,6.1,4.0,6.0,7.0,5.0,7.0,5.9,Low,0
+21.0,Female,Samdrup Jongkhar,Rural,9.0,5.0,1.0,2.0,5.0,8.0,1.0,3.1,Medium,0
+21.0,Male,Paro,Rural,7.2,4.5,6.0,1.0,1.0,6.0,8.0,6.6,High,0
+18.0,Male,Bumthang,Rural,7.9,2.5,5.0,6.0,5.0,10.0,5.0,6.5,Low,0
+17.0,Female,Tsirang,Urban,6.8,7.1,0.0,2.0,3.0,8.0,9.0,6.2,High,1
+,Female,Chukha,Urban,5.3,5.8,4.0,6.0,7.0,3.0,10.0,2.0,Medium,1
+21.0,Male,Samtse,Urban,7.8,3.4,2.0,10.0,6.0,3.0,5.0,3.5,Low,0
+20.0,Male,Punakha,Rural,5.2,6.5,7.0,8.0,8.0,5.0,5.0,8.6,Medium,1
+24.0,Male,Paro,Urban,7.4,3.5,0.0,2.0,5.0,10.0,2.0,3.3,High,1
+16.0,Male,Tsirang,Rural,5.9,2.9,0.0,9.0,2.0,3.0,3.0,8.9,Medium,1
+22.0,Female,Tsirang,Urban,9.9,3.0,4.0,8.0,9.0,8.0,10.0,3.6,High,1
+20.0,Male,Chukha,Urban,8.6,1.0,2.0,10.0,8.0,10.0,9.0,,High,1
+20.0,Female,Mongar,Rural,7.6,5.4,1.0,1.0,6.0,8.0,7.0,4.5,Medium,1
+17.0,Female,Trashigang,Rural,9.0,1.0,4.0,7.0,10.0,2.0,1.0,2.9,Medium,0
+18.0,Male,Mongar,Urban,6.5,2.0,2.0,10.0,7.0,,3.0,2.9,Medium,1
+22.0,Male,Chukha,Rural,8.2,1.0,0.0,6.0,9.0,10.0,2.0,3.2,Medium,0
+21.0,Male,Bumthang,Urban,,4.3,7.0,6.0,7.0,1.0,,5.4,Medium,0
+17.0,,Samdrup Jongkhar,Rural,7.8,4.2,2.0,6.0,3.0,4.0,9.0,7.2,High,1
+21.0,Male,,Rural,9.0,3.8,0.0,6.0,6.0,4.0,8.0,,High,1
+17.0,Female,Chukha,Urban,8.4,2.4,6.0,10.0,7.0,10.0,5.0,,Medium,1
+17.0,,Trongsa,Urban,7.8,,4.0,7.0,2.0,9.0,2.0,8.0,Medium,1
+17.0,Other,Chukha,Urban,5.5,5.4,5.0,3.0,3.0,3.0,1.0,5.1,Medium,0
+18.0,Male,Samdrup Jongkhar,Rural,6.3,3.4,,6.0,4.0,2.0,7.0,3.6,High,0
+17.0,Female,Chukha,Rural,,5.1,6.0,3.0,10.0,9.0,2.0,2.5,Medium,0
+19.0,,Trongsa,Urban,7.6,2.7,3.0,7.0,6.0,9.0,1.0,8.2,Low,1
+24.0,,Trongsa,,6.1,4.9,3.0,7.0,1.0,1.0,2.0,4.2,Low,1
+21.0,Female,Zhemgang,Urban,10.0,7.1,3.0,8.0,9.0,6.0,7.0,3.6,High,0
+16.0,Female,Paro,Urban,9.3,5.7,4.0,2.0,,10.0,7.0,3.3,Low,1
+23.0,Female,Sarpang,Rural,8.2,,,9.0,7.0,8.0,10.0,8.0,High,1
+22.0,Female,Trashiyangtse,Rural,7.6,5.0,4.0,5.0,9.0,3.0,6.0,3.6,Low,0
+18.0,Female,Pemagatshel,Rural,7.2,4.0,7.0,9.0,9.0,9.0,5.0,7.5,Low,1
+16.0,Male,Mongar,Rural,6.4,4.5,6.0,10.0,1.0,2.0,3.0,,Low,1
+20.0,Male,Samdrup Jongkhar,Urban,7.6,3.8,7.0,5.0,1.0,6.0,3.0,2.0,Low,0
+19.0,Female,Dagana,Rural,7.8,4.2,6.0,,3.0,1.0,9.0,4.2,Medium,1
+23.0,Female,Zhemgang,Urban,6.0,4.9,5.0,9.0,6.0,7.0,4.0,4.9,Low,1
+,,Tsirang,Rural,7.9,2.5,2.0,4.0,2.0,3.0,9.0,4.7,High,1
+16.0,Female,Paro,Urban,7.3,2.5,4.0,2.0,10.0,7.0,4.0,4.7,Medium,0
+19.0,Other,Haa,Rural,5.2,1.7,4.0,9.0,1.0,4.0,2.0,4.2,Low,1
+23.0,Male,Trashigang,Urban,6.5,1.3,0.0,2.0,1.0,9.0,4.0,3.0,Low,1
+20.0,,Trashiyangtse,Urban,7.0,2.1,6.0,3.0,5.0,5.0,6.0,5.0,Medium,0
+17.0,,Pemagatshel,Rural,9.8,4.8,0.0,10.0,4.0,3.0,6.0,6.4,Low,1
+21.0,Male,Trashiyangtse,Urban,8.2,2.7,0.0,2.0,1.0,8.0,5.0,1.3,Low,0
+20.0,Female,Trashigang,Rural,5.9,5.5,4.0,3.0,4.0,6.0,1.0,8.2,Low,1
+17.0,,Punakha,Urban,8.1,4.6,1.0,6.0,3.0,2.0,3.0,1.0,Medium,0
+18.0,Female,Pemagatshel,Urban,5.6,1.0,2.0,3.0,2.0,3.0,5.0,5.2,High,1
+24.0,Male,Tsirang,Urban,8.8,5.8,2.0,10.0,9.0,8.0,6.0,6.2,Medium,0
+22.0,Female,Chukha,Urban,6.9,6.1,7.0,8.0,1.0,10.0,1.0,3.5,Medium,1
+22.0,Female,Dagana,Rural,7.4,2.5,6.0,6.0,7.0,7.0,9.0,1.0,High,1
+21.0,Male,Pemagatshel,Urban,9.1,5.3,5.0,7.0,4.0,10.0,3.0,4.8,High,1
+23.0,Female,Sarpang,Rural,6.0,2.8,6.0,1.0,5.0,6.0,10.0,5.4,Medium,1
+19.0,Male,Bumthang,Rural,5.8,4.7,1.0,3.0,10.0,1.0,3.0,2.1,High,0
+23.0,Male,Samdrup Jongkhar,Rural,6.8,,1.0,3.0,5.0,9.0,2.0,2.9,Medium,1
+19.0,Male,Dagana,Rural,,1.0,,2.0,1.0,3.0,8.0,7.4,,1
+23.0,Male,Mongar,Rural,,3.7,3.0,7.0,6.0,,3.0,,Medium,1
+24.0,Male,Paro,Rural,,4.3,0.0,9.0,,,6.0,1.2,Medium,1
+18.0,Female,Wangdue Phodrang,Urban,7.0,3.7,0.0,4.0,2.0,7.0,2.0,6.1,Medium,1
+18.0,Female,Samtse,Urban,8.2,2.1,2.0,5.0,7.0,3.0,7.0,2.7,Low,1
+17.0,Female,Zhemgang,Rural,8.9,3.7,6.0,3.0,6.0,4.0,,3.1,High,0
+18.0,Male,Lhuentse,Rural,,5.0,1.0,9.0,5.0,,9.0,5.5,Medium,1
+18.0,Female,Zhemgang,Rural,7.0,4.4,6.0,4.0,4.0,7.0,10.0,5.3,Low,1
+20.0,Male,Samtse,Rural,8.9,4.9,5.0,5.0,4.0,8.0,9.0,4.0,Low,0
+20.0,Male,Sarpang,Rural,5.3,3.2,3.0,1.0,6.0,2.0,7.0,3.7,Low,1
+,Female,Samdrup Jongkhar,Rural,7.0,6.8,2.0,2.0,4.0,9.0,8.0,4.4,Medium,1
+21.0,Male,Pemagatshel,Rural,7.7,2.1,0.0,9.0,5.0,7.0,3.0,3.0,Medium,1
+20.0,Female,Punakha,Urban,8.0,5.5,4.0,2.0,6.0,8.0,,7.7,Medium,1
+21.0,Female,Haa,Rural,6.9,6.9,6.0,5.0,5.0,6.0,2.0,1.1,Low,0
+16.0,Male,Lhuentse,Urban,7.5,5.5,,8.0,7.0,6.0,10.0,4.4,Low,1
+20.0,Male,Pemagatshel,Urban,4.5,4.1,4.0,3.0,9.0,9.0,,1.4,Medium,0
+24.0,Male,Punakha,Rural,6.7,3.4,5.0,6.0,10.0,4.0,,7.3,Low,1
+17.0,Female,Trashiyangtse,Urban,8.0,6.6,2.0,4.0,7.0,5.0,9.0,4.4,High,1
+16.0,Male,Trashiyangtse,Urban,6.3,1.7,6.0,7.0,7.0,9.0,7.0,2.4,Low,0
+24.0,Male,Trongsa,Urban,7.6,2.6,0.0,10.0,4.0,1.0,10.0,6.7,,1
+24.0,Male,Trashigang,Rural,8.0,,6.0,3.0,1.0,4.0,10.0,1.0,Medium,0
+24.0,Female,Pemagatshel,Rural,7.1,7.0,3.0,6.0,8.0,7.0,8.0,5.7,Low,1
+21.0,,Wangdue Phodrang,Rural,7.7,5.3,7.0,10.0,4.0,9.0,9.0,7.9,Medium,1
+23.0,Male,Samdrup Jongkhar,Rural,6.3,2.6,4.0,9.0,,10.0,,5.4,Low,1
+16.0,Female,Mongar,Rural,7.3,3.9,3.0,,5.0,6.0,10.0,3.7,Medium,1
+19.0,Female,Sarpang,Urban,8.2,3.3,5.0,1.0,8.0,8.0,2.0,1.9,High,0
+16.0,Male,Chukha,Rural,7.7,3.1,0.0,3.0,4.0,9.0,2.0,7.7,Medium,1
+23.0,Male,Paro,Rural,6.8,6.5,4.0,,8.0,10.0,4.0,7.3,Low,0
+16.0,Male,Trongsa,Rural,7.8,1.8,5.0,8.0,8.0,4.0,9.0,3.4,Medium,1
+18.0,Female,Dagana,Urban,8.4,7.7,3.0,7.0,3.0,1.0,7.0,3.5,Medium,1
+19.0,Male,Thimphu,Rural,,6.2,3.0,2.0,9.0,8.0,2.0,8.0,High,0
+23.0,Female,Dagana,Rural,8.9,6.7,7.0,6.0,3.0,2.0,8.0,6.3,Low,0
+21.0,Female,Wangdue Phodrang,Urban,7.1,3.6,4.0,3.0,1.0,1.0,7.0,1.0,Medium,1
+22.0,Female,Samtse,Rural,8.0,4.2,0.0,8.0,2.0,7.0,9.0,4.5,Low,1
+23.0,Male,Pemagatshel,Urban,8.9,1.6,3.0,10.0,6.0,10.0,8.0,4.4,Medium,1
+17.0,Female,Mongar,Urban,5.9,3.5,2.0,,10.0,9.0,3.0,5.6,Medium,0
+23.0,Female,,Rural,6.6,5.5,7.0,10.0,2.0,9.0,1.0,5.0,High,1
+18.0,Female,Bumthang,Urban,7.2,7.1,5.0,9.0,6.0,3.0,2.0,3.7,Medium,1
+22.0,Male,Pemagatshel,Rural,6.6,2.3,4.0,1.0,1.0,6.0,2.0,5.4,Low,0
+18.0,Other,Lhuentse,Rural,9.6,3.8,1.0,5.0,1.0,7.0,4.0,3.9,High,1
+22.0,Male,Trongsa,Urban,6.5,4.2,1.0,3.0,5.0,,6.0,12.0,High,0
+17.0,Male,Samtse,Rural,6.8,1.7,0.0,6.0,10.0,9.0,4.0,5.3,Low,1
+,,Lhuentse,Urban,7.7,,2.0,10.0,9.0,2.0,9.0,5.0,Medium,1
+18.0,Female,Haa,Urban,6.1,3.1,3.0,2.0,8.0,8.0,4.0,9.6,High,1
+18.0,Male,Mongar,Urban,7.0,4.1,1.0,9.0,3.0,,6.0,1.6,Medium,1
+24.0,Male,Trashigang,Urban,7.9,3.6,,6.0,3.0,4.0,6.0,4.7,Low,0
+22.0,Male,Zhemgang,Urban,7.1,2.9,5.0,7.0,,2.0,10.0,2.6,Low,1
+20.0,Male,Punakha,Rural,7.4,4.5,,5.0,3.0,8.0,10.0,6.6,High,1
+22.0,Female,Sarpang,Rural,6.9,,2.0,9.0,1.0,5.0,1.0,3.8,Low,0
+24.0,Female,Samtse,Urban,5.7,3.8,2.0,1.0,8.0,6.0,8.0,6.5,Low,1
+16.0,Male,Trashigang,Rural,7.9,3.0,6.0,5.0,1.0,7.0,3.0,6.3,Low,0
+22.0,Male,Trongsa,,9.6,5.1,0.0,10.0,5.0,10.0,6.0,,High,1
+21.0,Female,Bumthang,Rural,7.5,7.8,0.0,6.0,9.0,1.0,3.0,6.3,High,1
+24.0,Male,Thimphu,Rural,7.8,4.8,6.0,7.0,7.0,8.0,2.0,4.4,Medium,1
+16.0,Male,Thimphu,Urban,8.3,6.5,,4.0,4.0,4.0,5.0,1.5,Low,0
+,Other,Chukha,Urban,6.0,1.7,3.0,1.0,9.0,9.0,1.0,7.5,Low,1
+24.0,Female,Haa,Rural,9.5,4.8,,8.0,9.0,1.0,9.0,8.5,Medium,1
+19.0,Male,Mongar,Rural,7.7,2.3,6.0,,2.0,2.0,7.0,2.7,Medium,1
+,Female,Lhuentse,Urban,9.5,1.5,3.0,4.0,10.0,6.0,3.0,6.8,High,0
+24.0,Male,Dagana,Urban,6.6,3.0,7.0,3.0,10.0,10.0,4.0,2.1,Low,0
+17.0,Female,Bumthang,Rural,9.7,6.9,3.0,7.0,6.0,1.0,6.0,5.5,Medium,0
+19.0,Male,Haa,Rural,8.4,6.4,4.0,2.0,4.0,4.0,3.0,6.0,High,0
+21.0,Male,Chukha,Rural,,5.0,2.0,8.0,8.0,8.0,7.0,3.9,Medium,0
+17.0,Male,Lhuentse,Rural,7.8,1.4,5.0,6.0,7.0,10.0,6.0,5.2,Medium,1
+23.0,Female,Dagana,Urban,7.2,4.1,,7.0,7.0,5.0,9.0,7.1,Medium,1
+23.0,Female,Punakha,Rural,8.9,5.1,2.0,5.0,10.0,9.0,5.0,4.7,Low,0
+16.0,Male,Mongar,Rural,7.7,4.9,,9.0,9.0,6.0,4.0,3.3,Low,1
+18.0,Male,Wangdue Phodrang,Urban,5.1,1.0,3.0,5.0,5.0,1.0,3.0,1.9,Medium,0
+24.0,Female,Mongar,Rural,6.2,2.7,,5.0,,6.0,10.0,4.0,Medium,1
+20.0,Male,Zhemgang,Rural,7.3,4.4,0.0,3.0,1.0,6.0,1.0,2.1,Low,0
+21.0,Male,Sarpang,Urban,7.9,5.6,4.0,1.0,6.0,6.0,3.0,4.1,Low,0
+19.0,Other,Samtse,Rural,7.4,1.0,0.0,2.0,2.0,8.0,3.0,,High,0
+17.0,Male,Chukha,Rural,9.0,4.2,4.0,8.0,6.0,6.0,7.0,7.0,Medium,0
+23.0,Female,Trashiyangtse,Rural,5.2,4.8,0.0,1.0,9.0,5.0,7.0,5.2,Low,0
+21.0,Other,Sarpang,Urban,7.7,6.2,,7.0,8.0,2.0,1.0,11.4,Low,0
+20.0,Male,Sarpang,Urban,5.3,5.9,6.0,5.0,9.0,4.0,3.0,1.0,High,1
+24.0,Male,Punakha,Rural,8.4,5.7,2.0,3.0,10.0,10.0,8.0,5.8,Low,1
+16.0,Male,Chukha,Urban,7.4,2.9,2.0,,8.0,5.0,9.0,3.9,Medium,1
+20.0,Female,Dagana,Rural,8.0,1.0,7.0,9.0,,10.0,7.0,2.6,Medium,1
+21.0,Female,Sarpang,Rural,6.5,3.7,5.0,2.0,8.0,4.0,7.0,4.9,Low,0
+20.0,Female,Trongsa,Urban,9.0,6.5,6.0,,6.0,2.0,8.0,4.7,Low,0
+21.0,Male,Bumthang,Rural,8.8,7.3,3.0,9.0,6.0,7.0,6.0,7.7,Medium,1
+21.0,Female,Dagana,Rural,8.2,5.9,5.0,3.0,6.0,10.0,3.0,5.2,High,0
+22.0,Female,Chukha,Urban,7.3,5.4,1.0,2.0,3.0,10.0,1.0,3.3,Medium,0
+19.0,Female,Punakha,Rural,8.2,5.3,7.0,7.0,10.0,2.0,7.0,5.8,High,0
+23.0,Female,Zhemgang,Rural,6.7,,5.0,,1.0,1.0,1.0,4.4,Medium,0
+22.0,Female,Trashiyangtse,Rural,8.5,4.2,7.0,5.0,4.0,5.0,1.0,2.2,,0
+24.0,Female,Wangdue Phodrang,Rural,9.5,7.8,2.0,10.0,10.0,1.0,9.0,4.4,Low,0
+22.0,Female,Samtse,Rural,8.8,2.6,3.0,5.0,6.0,1.0,10.0,5.6,Low,0
+18.0,Male,Trongsa,Rural,6.6,7.7,1.0,4.0,10.0,1.0,7.0,5.2,High,0
+18.0,Male,Tsirang,Rural,7.9,3.9,2.0,5.0,2.0,6.0,4.0,5.8,High,1
+23.0,Female,Lhuentse,Rural,5.9,7.2,6.0,4.0,7.0,9.0,6.0,3.7,Medium,0
+20.0,Male,Sarpang,Rural,8.2,1.7,0.0,6.0,7.0,10.0,1.0,5.8,Medium,0
+19.0,Female,Samtse,Urban,8.0,5.7,4.0,4.0,4.0,1.0,7.0,5.3,High,0
+23.0,,Trashiyangtse,Rural,5.3,3.0,1.0,2.0,,5.0,6.0,5.3,Low,1
+21.0,Female,Dagana,Urban,6.1,1.7,3.0,9.0,1.0,9.0,4.0,5.1,Medium,1
+17.0,Male,Bumthang,Urban,7.2,4.9,7.0,2.0,2.0,9.0,7.0,10.4,Medium,1
+19.0,Male,Trongsa,Urban,7.1,6.5,5.0,9.0,9.0,1.0,3.0,7.8,Medium,1
+19.0,Male,,Rural,6.0,2.8,6.0,10.0,10.0,8.0,1.0,5.7,Low,1
+21.0,Female,,Rural,8.0,1.5,5.0,6.0,8.0,1.0,4.0,3.0,Medium,0
+21.0,Female,Dagana,Rural,7.8,4.3,1.0,9.0,8.0,8.0,3.0,4.3,Low,1
+16.0,Female,Pemagatshel,Rural,7.3,4.3,6.0,9.0,9.0,1.0,1.0,9.0,Low,0
+23.0,Male,Trashiyangtse,Rural,6.6,5.6,3.0,3.0,7.0,5.0,2.0,3.6,High,0
+21.0,Female,Paro,Rural,8.8,,1.0,1.0,9.0,8.0,5.0,4.6,High,0
+18.0,Female,Mongar,Rural,9.5,4.4,3.0,1.0,10.0,6.0,8.0,4.4,High,0
+24.0,Male,Punakha,Urban,6.9,8.2,5.0,3.0,2.0,9.0,1.0,5.9,High,1
+17.0,Female,Bumthang,Urban,6.8,4.9,2.0,5.0,6.0,1.0,4.0,,Low,0
+23.0,Male,Pemagatshel,Rural,8.1,3.8,6.0,,3.0,9.0,4.0,5.4,High,0
+18.0,Male,Dagana,Rural,7.1,1.3,0.0,9.0,6.0,1.0,5.0,4.0,Low,1
+20.0,Female,,Urban,7.3,4.0,2.0,9.0,3.0,10.0,7.0,8.3,Low,1
+21.0,,Trashiyangtse,Urban,8.4,3.8,0.0,3.0,8.0,10.0,8.0,3.3,Medium,1
+21.0,Female,Mongar,Rural,5.2,,5.0,3.0,4.0,3.0,6.0,7.4,Medium,0
+19.0,Female,Trashiyangtse,Urban,9.1,,7.0,5.0,10.0,1.0,1.0,3.5,Medium,0
+18.0,Female,Dagana,Rural,7.6,2.1,6.0,2.0,6.0,3.0,7.0,2.9,Medium,0
+19.0,Male,Trashigang,Rural,7.0,4.8,2.0,6.0,9.0,2.0,3.0,3.2,Medium,0
+16.0,Female,Trashigang,Rural,7.4,5.8,2.0,7.0,2.0,2.0,,1.0,Medium,0
+19.0,Female,Haa,Urban,7.5,7.6,1.0,9.0,2.0,,8.0,6.1,Medium,1
+16.0,,Sarpang,Rural,5.4,6.3,4.0,6.0,7.0,8.0,7.0,2.1,Low,1
+16.0,Male,,Rural,9.3,6.0,5.0,3.0,2.0,1.0,10.0,4.1,Medium,0
+21.0,Male,Paro,Rural,7.5,4.6,3.0,5.0,2.0,4.0,6.0,6.9,Low,1
+20.0,Female,Punakha,Rural,8.0,5.3,5.0,4.0,4.0,1.0,9.0,6.8,Medium,0
+19.0,Male,Dagana,Urban,8.6,7.0,3.0,5.0,9.0,1.0,9.0,1.4,Medium,0
+18.0,Female,Thimphu,Rural,6.3,1.8,,8.0,8.0,4.0,1.0,5.8,Low,1
+16.0,Female,Trashiyangtse,Rural,8.1,3.8,3.0,8.0,2.0,2.0,1.0,7.9,Medium,1
+21.0,Female,Wangdue Phodrang,Rural,7.2,3.0,7.0,6.0,8.0,3.0,1.0,3.4,Low,0
+17.0,Female,Zhemgang,Urban,8.5,5.3,0.0,1.0,4.0,9.0,8.0,6.3,Low,0
+23.0,Female,Bumthang,Rural,4.9,7.0,3.0,8.0,2.0,2.0,10.0,2.1,Low,0
+20.0,Female,Mongar,Rural,7.4,3.3,3.0,8.0,10.0,4.0,7.0,6.0,High,1
+22.0,Female,Chukha,Urban,6.8,1.0,1.0,2.0,7.0,1.0,3.0,5.3,High,0
+17.0,Female,Trashigang,Urban,8.0,,2.0,4.0,6.0,2.0,2.0,6.7,High,0
+23.0,Male,Mongar,Rural,8.1,6.3,5.0,2.0,10.0,,4.0,6.5,Low,0
+17.0,Male,Trashigang,Urban,6.7,,5.0,4.0,5.0,10.0,3.0,1.6,Medium,0
+19.0,Female,Haa,Urban,6.6,5.4,6.0,10.0,1.0,1.0,7.0,5.3,,1
+16.0,Male,Pemagatshel,Urban,7.4,3.9,6.0,7.0,2.0,7.0,10.0,8.6,Low,1
+20.0,Male,Dagana,Rural,6.4,1.9,7.0,9.0,8.0,4.0,8.0,1.0,Low,1
+24.0,Male,Zhemgang,Rural,8.5,,3.0,8.0,1.0,6.0,6.0,7.4,Medium,1
+16.0,Female,Trashigang,Rural,7.1,2.8,4.0,9.0,3.0,8.0,3.0,9.0,Medium,1
+24.0,Female,Tsirang,Urban,4.0,8.9,5.0,8.0,2.0,6.0,6.0,,,1
+23.0,Female,Pemagatshel,Rural,7.1,5.6,6.0,2.0,5.0,2.0,2.0,3.3,Low,0
